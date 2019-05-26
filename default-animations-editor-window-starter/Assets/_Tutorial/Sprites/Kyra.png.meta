@@ -1,0 +1,2344 @@
+fileFormatVersion: 2
+guid: 1ac715b9b88e44bf790e3ea82c6a302a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1705451657928936955
+    second: Kyra_0
+  - first:
+      213: -2026553509224685427
+    second: Kyra_1
+  - first:
+      213: 7270565340901748765
+    second: Kyra_2
+  - first:
+      213: 9186361354385927468
+    second: Kyra_3
+  - first:
+      213: -8365229630039452975
+    second: Kyra_4
+  - first:
+      213: -3396934295672208283
+    second: Kyra_5
+  - first:
+      213: 7984684069124848593
+    second: Kyra_6
+  - first:
+      213: -7231172526131180963
+    second: Kyra_7
+  - first:
+      213: 4651558290939878063
+    second: Kyra_8
+  - first:
+      213: 7268761990280605811
+    second: Kyra_9
+  - first:
+      213: -7535104144183840998
+    second: Kyra_10
+  - first:
+      213: 2564260796921874746
+    second: Kyra_11
+  - first:
+      213: -7097376206222501538
+    second: Kyra_12
+  - first:
+      213: 5121632861035844471
+    second: Kyra_13
+  - first:
+      213: 6829411581840041199
+    second: Kyra_14
+  - first:
+      213: -6531596564006512686
+    second: Kyra_15
+  - first:
+      213: -4064686142652635392
+    second: Kyra_16
+  - first:
+      213: 4083729203405488098
+    second: Kyra_17
+  - first:
+      213: 4052320356294372077
+    second: Kyra_18
+  - first:
+      213: 6658122723509903842
+    second: Kyra_19
+  - first:
+      213: 7722016034688734484
+    second: Kyra_20
+  - first:
+      213: -5801440606368413992
+    second: Kyra_21
+  - first:
+      213: 9074289364108967309
+    second: Kyra_22
+  - first:
+      213: -3545655820055132134
+    second: Kyra_23
+  - first:
+      213: 2448009289161774655
+    second: Kyra_24
+  - first:
+      213: -4262396395501530853
+    second: Kyra_25
+  - first:
+      213: -4074859585160702113
+    second: Kyra_26
+  - first:
+      213: 1920015173038979833
+    second: Kyra_27
+  - first:
+      213: 3708502703589866958
+    second: Kyra_28
+  - first:
+      213: 7114003216812852455
+    second: Kyra_29
+  - first:
+      213: -2271716570590720882
+    second: Kyra_30
+  - first:
+      213: -3478328609616599878
+    second: Kyra_31
+  - first:
+      213: -5519938772110817789
+    second: Kyra_32
+  - first:
+      213: -74114399573825490
+    second: Kyra_33
+  - first:
+      213: -7269350409693191678
+    second: Kyra_34
+  - first:
+      213: -3981406924522841411
+    second: Kyra_35
+  - first:
+      213: 4228605119474907998
+    second: Kyra_36
+  - first:
+      213: 6770767796839967074
+    second: Kyra_37
+  - first:
+      213: -11708845831458203
+    second: Kyra_38
+  - first:
+      213: 6470015226362643148
+    second: Kyra_39
+  - first:
+      213: -5614152779138332646
+    second: Kyra_40
+  - first:
+      213: -2314114593641798132
+    second: Kyra_41
+  - first:
+      213: 7536409779806483917
+    second: Kyra_42
+  - first:
+      213: -911442888449904911
+    second: Kyra_43
+  - first:
+      213: -6224527287828229030
+    second: Kyra_44
+  - first:
+      213: 2359775455126038538
+    second: Kyra_45
+  - first:
+      213: 4498499157834809870
+    second: Kyra_46
+  - first:
+      213: 3173765988172877730
+    second: Kyra_47
+  - first:
+      213: 4432907628041619009
+    second: Kyra_48
+  - first:
+      213: -8418959105987300276
+    second: Kyra_49
+  - first:
+      213: -6126001658446860286
+    second: Kyra_50
+  - first:
+      213: 4287753775522027858
+    second: Kyra_51
+  - first:
+      213: 7549211293966835199
+    second: Kyra_52
+  - first:
+      213: 5150352143189581605
+    second: Kyra_53
+  - first:
+      213: -1860080923421070122
+    second: Kyra_54
+  - first:
+      213: 5261198071513775214
+    second: Kyra_55
+  - first:
+      213: -7962193803794215131
+    second: Kyra_56
+  - first:
+      213: 7960870413719188895
+    second: Kyra_57
+  - first:
+      213: -8766242325559416683
+    second: Kyra_58
+  - first:
+      213: 8598740628122779249
+    second: Kyra_59
+  - first:
+      213: 3443205294000215399
+    second: Kyra_60
+  - first:
+      213: -4187476399787922308
+    second: Kyra_61
+  - first:
+      213: 1519603430397199817
+    second: Kyra_62
+  - first:
+      213: 4224099717350443233
+    second: Kyra_63
+  - first:
+      213: 3275199680930044225
+    second: Kyra_64
+  - first:
+      213: -2374728682909424574
+    second: Kyra_65
+  - first:
+      213: 4702602149289828605
+    second: Kyra_66
+  - first:
+      213: 530176432203357196
+    second: Kyra_67
+  - first:
+      213: -6171739885462735096
+    second: Kyra_68
+  - first:
+      213: 5525019708294918631
+    second: Kyra_69
+  - first:
+      213: -441653183303059346
+    second: Kyra_70
+  - first:
+      213: 5170727786537777443
+    second: Kyra_71
+  - first:
+      213: -7087226538535183776
+    second: Kyra_72
+  - first:
+      213: -675959588609938493
+    second: Kyra_73
+  - first:
+      213: -2501657268168483728
+    second: Kyra_74
+  - first:
+      213: -8411033637311066986
+    second: Kyra_75
+  - first:
+      213: -1904253445436859987
+    second: Kyra_76
+  - first:
+      213: 4261860142251591490
+    second: Kyra_77
+  - first:
+      213: -7218509021299449108
+    second: Kyra_78
+  - first:
+      213: 70715545261178441
+    second: Kyra_79
+  - first:
+      213: -7413937400807465779
+    second: Kyra_80
+  - first:
+      213: -8503714791291821795
+    second: Kyra_81
+  - first:
+      213: -972665741699128634
+    second: Kyra_82
+  - first:
+      213: 5697351110906015432
+    second: Kyra_83
+  - first:
+      213: -8706609186136949433
+    second: Kyra_84
+  - first:
+      213: 2141069261157667291
+    second: Kyra_85
+  - first:
+      213: 5587725698158344878
+    second: Kyra_86
+  - first:
+      213: 569637145298707114
+    second: Kyra_87
+  - first:
+      213: 7868926613843782889
+    second: Kyra_88
+  - first:
+      213: 8174030905525858407
+    second: Kyra_89
+  - first:
+      213: 1487090242852999832
+    second: Kyra_90
+  - first:
+      213: -7222889191434979691
+    second: Kyra_91
+  - first:
+      213: 4868748714029860847
+    second: Kyra_92
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kyra_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 82
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774c33df15fdf47a4a198074752b4132
+      internalID: -1705451657928936955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 87
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfffcb1e8094b448bba1949a494f7c04
+      internalID: -2026553509224685427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 88
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2ac24de22264dd38c126059490dcc5
+      internalID: 7270565340901748765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 87
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebe66f0ce6784ea28eea7568339a6af
+      internalID: 9186361354385927468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 87
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60d7dca9199d4d689293bb2f1c04006
+      internalID: -8365229630039452975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 88
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98c81f3783134e98a60d510cc532ff2
+      internalID: -3396934295672208283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 87
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9ce7e67d81c48afaa365e012197b7c
+      internalID: 7984684069124848593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 87
+        width: 12
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b2dcfae484d4970ae59e59409e58d0
+      internalID: -7231172526131180963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 87
+        width: 10
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb6eb9d2623e4851a19ecdca75df5b8
+      internalID: 4651558290939878063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_9
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 87
+        width: 12
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a0d9d113928497eabd39b4fcf3e853
+      internalID: 7268761990280605811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86949174313774b9ea98541ec7c945b2
+      internalID: -7535104144183840998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1a97d7fef8f4be8a1bb6a5763cf725
+      internalID: 2564260796921874746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_12
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccee4fd49d4e648e1a2694729f010b6a
+      internalID: -7097376206222501538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b97cdaa1917b49c5bae82885d45ceaf
+      internalID: 5121632861035844471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e27b35165e84a03be33ccf4de2a863
+      internalID: 6829411581840041199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 72
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad0b398cfcf54d08ac61e975cebdf6c
+      internalID: -6531596564006512686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb1251b2da5f4f6e92d6b5a77ec7197
+      internalID: -4064686142652635392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603da86e14f954db29043e433b65ab1d
+      internalID: 4083729203405488098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_18
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb51dde4349b4862b4b0cff38db377b
+      internalID: 4052320356294372077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5634a503f4d5e4cb7915077b1dba95c6
+      internalID: 6658122723509903842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea79b71bd764d42909403e0260072266
+      internalID: 7722016034688734484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_21
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b7f200bba0844d58769750c9afe8a9
+      internalID: -5801440606368413992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_22
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297608dfc807e4696ab0ff7ce15e2938
+      internalID: 9074289364108967309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_23
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ced9cd415314d769dfc35fdf0ad012
+      internalID: -3545655820055132134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_24
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e5d3b4ce0b84a48b54e530877bbe1a
+      internalID: 2448009289161774655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_25
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9746a07f7324551bb88e6d45460383
+      internalID: -4262396395501530853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fdb60774a7a411ab5ed2dc8184a743
+      internalID: -4074859585160702113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba61d187a36e34109ba41ea7513fc803
+      internalID: 1920015173038979833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_28
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cd1d024d58e436db2f3709d7159e25
+      internalID: 3708502703589866958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_29
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fab0d15d10bc4ff1b04f35715333f6d
+      internalID: 7114003216812852455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_30
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82dbc8e9838d142d6bc0a0c6ee211c9e
+      internalID: -2271716570590720882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_31
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b507cc6fab2e844a39e95955f86251a3
+      internalID: -3478328609616599878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcaaad7121c542b684a366516507b3d
+      internalID: -5519938772110817789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_33
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13eba7098592842c58ad6955c0ff5b4a
+      internalID: -74114399573825490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_34
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078f30e6fdbf645f592000c032f890dd
+      internalID: -7269350409693191678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083defac39fd1482ab5fb2c80e5efca4
+      internalID: -3981406924522841411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_36
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431a4954f37fc4e19a88a2f1c5d1920a
+      internalID: 4228605119474907998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_37
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 63
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b451a8b9bcbd49d9af27d9c48a07969
+      internalID: 6770767796839967074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_38
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd675bcababc4bd29ca4fc8da2a70a4
+      internalID: -11708845831458203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_39
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d79aa84f928f45629ccdf49bfb96bb0
+      internalID: 6470015226362643148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_40
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f4dee4d816e4a24bd1fe380e578f91
+      internalID: -5614152779138332646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_41
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9a3209f464a43ad98f720a0c2b3dac
+      internalID: -2314114593641798132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24577cd91832a42bb8c86b7d8d8e3044
+      internalID: 7536409779806483917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_43
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d031453b2242452d8b742f762c3eeef
+      internalID: -911442888449904911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_44
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c310ec662d8514fdfaec0b05cd15f204
+      internalID: -6224527287828229030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_45
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665a166320d7241a6b7ae60b9358e521
+      internalID: 2359775455126038538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_46
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 54
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec86fbb8e97b4d0fbe18dbe9134d69a
+      internalID: 4498499157834809870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_47
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33607c1519c02437cb3cb34497341c70
+      internalID: 3173765988172877730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_48
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7192dc405bf5246a39689070db49d19f
+      internalID: 4432907628041619009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_49
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fe8b8d6299942d3a6c88af7fe3f803
+      internalID: -8418959105987300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_50
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4795a87d49ea14b88bd949afba150f56
+      internalID: -6126001658446860286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_51
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 54
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca636b1c7edbf4718a27e37a8c2e96d3
+      internalID: 4287753775522027858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_52
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ece8557c3fce40179c0958afde86c0d
+      internalID: 7549211293966835199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_53
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d55b19669fd4c59b87966fb4729f25
+      internalID: 5150352143189581605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_54
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 45
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534b31f9e82404ae1a6caa400424169d
+      internalID: -1860080923421070122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 45
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e352ce4c194de495c9d5ca5ebf7a1a8a
+      internalID: 5261198071513775214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_56
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 45
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2bde9a8401b46d8a14cc9b3c90e9e1
+      internalID: -7962193803794215131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_57
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 45
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e396b7fb3e9434a8aabb44af8cd5423b
+      internalID: 7960870413719188895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_58
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 45
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a2bcce83bc64b0096c1b9e62e26840
+      internalID: -8766242325559416683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_59
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 45
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6779f2434c64fd1a50166c264386e4
+      internalID: 8598740628122779249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_60
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 36
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21475391ccd24ed4a7d81b681a8b0bf
+      internalID: 3443205294000215399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_61
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6b0c531414d424a993558d8f195702
+      internalID: -4187476399787922308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_62
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a1dcdadc7ed4b9dbe407383398a933
+      internalID: 1519603430397199817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_63
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef01ba36e7364c8bb49e8aa322d1760
+      internalID: 4224099717350443233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_64
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda905df1263346cead12d3e3804dea2
+      internalID: 3275199680930044225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59be3786ce7d046e889c55bd5ec2fa94
+      internalID: -2374728682909424574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_66
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec37658b7afdb48adb8658061b3d520f
+      internalID: 4702602149289828605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_67
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2a6d5d57b8945a3a9fd4bbb6c58188
+      internalID: 530176432203357196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_68
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb60e465062d4bcaba1e363bc19a9d9
+      internalID: -6171739885462735096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_69
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 36
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d1b7c6d2a2748f1a57f5f549e9c6fd
+      internalID: 5525019708294918631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_70
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd9023fc665445f1881b40a851d7190
+      internalID: -441653183303059346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_71
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b881e1df3b614a27822111492ea4232
+      internalID: 5170727786537777443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_72
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 36
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f500241a621c4d1791630eb00ebc4ce
+      internalID: -7087226538535183776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_73
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cb197add24b408996b1f9a21af2842
+      internalID: -675959588609938493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_74
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8369dcc58dff49989b2548485082dc7
+      internalID: -2501657268168483728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_75
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98614d26da28a4005a38e5f93cba9ebd
+      internalID: -8411033637311066986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_76
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ceedcb713e141dc8e4cb6271cc144f
+      internalID: -1904253445436859987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_77
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4153298a012b2495a9af29076a1e9563
+      internalID: 4261860142251591490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_78
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d46809d411646438ec8aacfcdd74bd
+      internalID: -7218509021299449108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_79
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251cedbad86d149429e3800d8b5f223d
+      internalID: 70715545261178441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_80
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 27
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7388fed2d7f814a0e9cbd8b544535570
+      internalID: -7413937400807465779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_81
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e717f1c7ede3478480b94f034c3e5f2
+      internalID: -8503714791291821795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_82
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02791cf5df9474d91baf92070c4b260d
+      internalID: -972665741699128634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_83
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef841d688fb2a4df4a2f478196bb02a5
+      internalID: 5697351110906015432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_84
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e909d5bb2b1e4537b16dd88384218ac
+      internalID: -8706609186136949433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_85
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047f8641793724580aadbc499219db05
+      internalID: 2141069261157667291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_86
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 27
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f63385898524c51a53e31d8c587e44
+      internalID: 5587725698158344878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_87
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba977c7360e54eb8948c8183f88fdf9
+      internalID: 569637145298707114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_88
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 18
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c92baae424a4482bb284d4ced77cd58
+      internalID: 7868926613843782889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_89
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 18
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7139176b303435e9bb3ba3cf32693f
+      internalID: 8174030905525858407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_90
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 18
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1225da6cbc60416db69f4bf0de36990
+      internalID: 1487090242852999832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_91
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 18
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e4c177656e34272bebed68185d98fd
+      internalID: -7222889191434979691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyra_92
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 18
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b1cd4b7969f464c90b01abc1e1998b
+      internalID: 4868748714029860847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 95ef79f05885f4d6a8e7f655d2a6c112
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

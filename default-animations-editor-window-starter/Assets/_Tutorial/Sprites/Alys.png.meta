@@ -1,0 +1,2584 @@
+fileFormatVersion: 2
+guid: 095992a497593458780d36d490e53c15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6144583760070655986
+    second: Alys_0
+  - first:
+      213: -8472391618925918421
+    second: Alys_1
+  - first:
+      213: 7971986552285990299
+    second: Alys_2
+  - first:
+      213: -1666700309087836703
+    second: Alys_3
+  - first:
+      213: 13214689309613879
+    second: Alys_4
+  - first:
+      213: -3338427869997595584
+    second: Alys_5
+  - first:
+      213: 2417424020868201139
+    second: Alys_6
+  - first:
+      213: 4826836618275101913
+    second: Alys_7
+  - first:
+      213: -7725965169999492199
+    second: Alys_8
+  - first:
+      213: -4920961198471014772
+    second: Alys_9
+  - first:
+      213: 1305426519967910104
+    second: Alys_10
+  - first:
+      213: -5554266835205762242
+    second: Alys_11
+  - first:
+      213: 4346639796266922624
+    second: Alys_12
+  - first:
+      213: 2544248049357127410
+    second: Alys_13
+  - first:
+      213: 637057048329385368
+    second: Alys_14
+  - first:
+      213: -4424769117445760766
+    second: Alys_15
+  - first:
+      213: 7777005580930846331
+    second: Alys_16
+  - first:
+      213: 5351909807346219536
+    second: Alys_17
+  - first:
+      213: 2692105391857345487
+    second: Alys_18
+  - first:
+      213: -998825060782692100
+    second: Alys_19
+  - first:
+      213: 340999220590758632
+    second: Alys_20
+  - first:
+      213: 8638087739387388649
+    second: Alys_21
+  - first:
+      213: -655918937866086168
+    second: Alys_22
+  - first:
+      213: -1817280620681764440
+    second: Alys_23
+  - first:
+      213: 5142060820411377002
+    second: Alys_24
+  - first:
+      213: -4735519585809621152
+    second: Alys_25
+  - first:
+      213: -6498542609225636145
+    second: Alys_26
+  - first:
+      213: -1452868989613949615
+    second: Alys_27
+  - first:
+      213: 940366620271060347
+    second: Alys_28
+  - first:
+      213: -3729727158166930864
+    second: Alys_29
+  - first:
+      213: 930083248096715473
+    second: Alys_30
+  - first:
+      213: -1860628226627414100
+    second: Alys_31
+  - first:
+      213: -470212688555512029
+    second: Alys_32
+  - first:
+      213: -1824981002912163223
+    second: Alys_33
+  - first:
+      213: 4557550281904177064
+    second: Alys_34
+  - first:
+      213: -1866168741867268203
+    second: Alys_35
+  - first:
+      213: -440784877602649518
+    second: Alys_36
+  - first:
+      213: 1594047202716848930
+    second: Alys_37
+  - first:
+      213: 4487748962844582671
+    second: Alys_38
+  - first:
+      213: 8465257020952097880
+    second: Alys_39
+  - first:
+      213: 222758283804908593
+    second: Alys_40
+  - first:
+      213: 574195289198112548
+    second: Alys_41
+  - first:
+      213: 5395187705442499803
+    second: Alys_42
+  - first:
+      213: 7523479331612113690
+    second: Alys_43
+  - first:
+      213: -8385191039202386972
+    second: Alys_44
+  - first:
+      213: -2877263075241868037
+    second: Alys_45
+  - first:
+      213: -3975738652666900150
+    second: Alys_46
+  - first:
+      213: -7132329962969356044
+    second: Alys_47
+  - first:
+      213: 6215142975164131497
+    second: Alys_48
+  - first:
+      213: -7722089235547365232
+    second: Alys_49
+  - first:
+      213: -8025362055080508747
+    second: Alys_50
+  - first:
+      213: 1624297234179179335
+    second: Alys_51
+  - first:
+      213: -6221307258697565020
+    second: Alys_52
+  - first:
+      213: 7156997466433184079
+    second: Alys_53
+  - first:
+      213: -7137436125497005636
+    second: Alys_54
+  - first:
+      213: -8600022111957418608
+    second: Alys_55
+  - first:
+      213: 1641959703193283682
+    second: Alys_56
+  - first:
+      213: -8076261053294579568
+    second: Alys_57
+  - first:
+      213: 4719302204967466811
+    second: Alys_58
+  - first:
+      213: 6579377545863054338
+    second: Alys_59
+  - first:
+      213: -4263177504979279758
+    second: Alys_60
+  - first:
+      213: -3432626959918528657
+    second: Alys_61
+  - first:
+      213: -8270781638769055788
+    second: Alys_62
+  - first:
+      213: 2211437333081650603
+    second: Alys_63
+  - first:
+      213: -3018281987925841929
+    second: Alys_64
+  - first:
+      213: 5589914093488967398
+    second: Alys_65
+  - first:
+      213: -2796913465264777954
+    second: Alys_66
+  - first:
+      213: 3220208911322027424
+    second: Alys_67
+  - first:
+      213: -3449470357727942784
+    second: Alys_68
+  - first:
+      213: 5461923288399155479
+    second: Alys_69
+  - first:
+      213: 5773863573332032522
+    second: Alys_70
+  - first:
+      213: 5272087452714920590
+    second: Alys_71
+  - first:
+      213: -6882823418840574514
+    second: Alys_72
+  - first:
+      213: 2236929636848510781
+    second: Alys_73
+  - first:
+      213: -4425760234746829818
+    second: Alys_74
+  - first:
+      213: 1230788689173425330
+    second: Alys_75
+  - first:
+      213: 1418815646645108352
+    second: Alys_76
+  - first:
+      213: -4514408467863014620
+    second: Alys_77
+  - first:
+      213: -49313944032191730
+    second: Alys_78
+  - first:
+      213: 8117849670814408924
+    second: Alys_79
+  - first:
+      213: 9007498890533970002
+    second: Alys_80
+  - first:
+      213: 6752802225751254796
+    second: Alys_81
+  - first:
+      213: 8652768283506467223
+    second: Alys_82
+  - first:
+      213: -4318448493332364239
+    second: Alys_83
+  - first:
+      213: 4117329593868345085
+    second: Alys_84
+  - first:
+      213: 5150348509061759110
+    second: Alys_85
+  - first:
+      213: 7772044060793771603
+    second: Alys_86
+  - first:
+      213: -1662150748623854205
+    second: Alys_87
+  - first:
+      213: 4663419484926223706
+    second: Alys_88
+  - first:
+      213: 426122914949261837
+    second: Alys_89
+  - first:
+      213: -1124701344213679950
+    second: Alys_90
+  - first:
+      213: -3051835903237204151
+    second: Alys_91
+  - first:
+      213: 6707886066709858483
+    second: Alys_92
+  - first:
+      213: -2629830152325630506
+    second: Alys_93
+  - first:
+      213: -4789614985700989541
+    second: Alys_94
+  - first:
+      213: 1910563216855576950
+    second: Alys_95
+  - first:
+      213: 6162251813025993867
+    second: Alys_96
+  - first:
+      213: 4679537624151693468
+    second: Alys_97
+  - first:
+      213: 1789452230469313358
+    second: Alys_98
+  - first:
+      213: 2717261335428787732
+    second: Alys_99
+  - first:
+      213: -3362435131610343183
+    second: Alys_100
+  - first:
+      213: 2696188095280614288
+    second: Alys_101
+  - first:
+      213: 7028417801401719055
+    second: Alys_102
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alys_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae19c183a1a334a9380249ffc759dfd3
+      internalID: 6144583760070655986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 138
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5dbf611e6e9464789cce56a9ec6911
+      internalID: -8472391618925918421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 139
+        width: 15
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f8c56cad06247d38375726a30d65f7
+      internalID: 7971986552285990299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 138
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4234ac88735a94045a625834a408598a
+      internalID: -1666700309087836703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 138
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696dffd6224354d2eb81825019281a22
+      internalID: 13214689309613879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 139
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd73cbf6eb584dbd84beed7bf0936f8
+      internalID: -3338427869997595584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_6
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 138
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edbde89432e74822858a1bee4bd0196
+      internalID: 2417424020868201139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 139
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b407020e5b2a445afa2a8feeed725473
+      internalID: 4826836618275101913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 139
+        width: 11
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b6294dc298e48a1977570ed2e28769
+      internalID: -7725965169999492199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 139
+        width: 13
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f99b652d4e0496094bf86aae0b33d1
+      internalID: -4920961198471014772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e28365771fe4422afeaf18cca95a8e
+      internalID: 1305426519967910104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 87
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198fd0bec0aa1400c85243748e88442e
+      internalID: -5554266835205762242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 87
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6e0031f9a254805884bd37faade206
+      internalID: 4346639796266922624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 87
+        width: 29
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afda460ea5f74673a9b309e12633c6d
+      internalID: 2544248049357127410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_14
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 87
+        width: 29
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5a729b6d00548c8a37b373b3bbc1a8
+      internalID: 637057048329385368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 87
+        width: 30
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead087f5ddfd9476a8c0c7faea8ea7ac
+      internalID: -4424769117445760766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_16
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 87
+        width: 11
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75f162dd47274acfb7ad160611df082
+      internalID: 7777005580930846331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_17
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 87
+        width: 11
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75fa8ecf91bb458e8351ba7002e5490
+      internalID: 5351909807346219536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_18
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 104
+        width: 19
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e773933f33044e4b9a5e8c97ac11e4
+      internalID: 2692105391857345487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d6626bcb3e0467b91fb74049a9fcb2
+      internalID: -998825060782692100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 65
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9be3ac768bd43bfa3869955a9a4375
+      internalID: 340999220590758632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_21
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 65
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a78dcdfee43a4371a08ad3f8ce306bd
+      internalID: 8638087739387388649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_22
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 65
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da20314b6f4b473eb05cf66b5499367
+      internalID: -655918937866086168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_23
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 65
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc75fc4b04144894b48c2e54e39348c
+      internalID: -1817280620681764440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_24
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 65
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cf03eec779a4cd9a083a70da304edf
+      internalID: 5142060820411377002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 65
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a3a2529c9c4499da559deb6085785b
+      internalID: -4735519585809621152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 65
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5b8bb143ab64656b968f5ec615c47e
+      internalID: -6498542609225636145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_27
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 65
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea379497f09b44da88123aa0202e165e
+      internalID: -1452868989613949615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_28
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 65
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688e292f11d274395bdbd0ef3519299d
+      internalID: 940366620271060347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_29
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 65
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f33ab2c8102348fb8fc0824c4092f47
+      internalID: -3729727158166930864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_30
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 65
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9aff409785464d3f84ecbf46b17f839
+      internalID: 930083248096715473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_31
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 65
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d39ae8cb8aa47a09b4b545e69ae516
+      internalID: -1860628226627414100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_32
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 65
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9072eb7c60be24937965090e20208fe1
+      internalID: -470212688555512029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_33
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 65
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925f0fe103bec4575a63151f27c0664f
+      internalID: -1824981002912163223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_34
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 65
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e89737aab26426ebe0dbc6a9b26088
+      internalID: 4557550281904177064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_35
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 56
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109514c9d4cf14d3cbe3fc7b77852308
+      internalID: -1866168741867268203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_36
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 56
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613866f5b6142499faa201fb60f01f15
+      internalID: -440784877602649518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_37
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 56
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495f5c8d6d3844628888362ee8db916a
+      internalID: 1594047202716848930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_38
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 56
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f3ee688392f4facb3fb9cc3e1070de
+      internalID: 4487748962844582671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_39
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 56
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49edcdff1e76a4fbab01f93990f28ba3
+      internalID: 8465257020952097880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_40
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 56
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db0b592db29d4ac6b2d0bd7651600f6
+      internalID: 222758283804908593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_41
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 56
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1940f5d3ae15e45d6803c84ff4b5fe16
+      internalID: 574195289198112548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_42
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 56
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec457a7634f448499b8531a9bbef680
+      internalID: 5395187705442499803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_43
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 56
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6b6bb9f48f0492baaece104e4f8773
+      internalID: 7523479331612113690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_44
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 56
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea14cc0f64cd4292b63696fb433556e
+      internalID: -8385191039202386972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_45
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 56
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfc4db770c6b4d999a9b7bb8c69ff6f
+      internalID: -2877263075241868037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_46
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 56
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe264e945d7346f483f73e2b4e5443b
+      internalID: -3975738652666900150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_47
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 56
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb50ebacf70c4fa785b53bda62d3034
+      internalID: -7132329962969356044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_48
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d83dc65b5b0442c094ed4e0c951acec
+      internalID: 6215142975164131497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_49
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dcd50b995674bcaaab8085a705a684
+      internalID: -7722089235547365232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_50
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363dc4a1dc6e9492c89b2d66678755a0
+      internalID: -8025362055080508747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_51
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d425877f0e2f745d09ea121dc7166204
+      internalID: 1624297234179179335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_52
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40713d8b69df347a188c67549d8d41d1
+      internalID: -6221307258697565020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_53
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbb73dc2a77d40be94b4f67dd241dbc
+      internalID: 7156997466433184079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_54
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a36472de3db74fb6a281ded053b0eb8
+      internalID: -7137436125497005636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_55
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0842921d23346a6ad8c431996957d4
+      internalID: -8600022111957418608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_56
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 47
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d5236ccbe524854aa1ca843af7bdd5
+      internalID: 1641959703193283682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_57
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5e25b96234046699e93fba61355700
+      internalID: -8076261053294579568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_58
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220f272c1671a4c96afef98b7c2a3004
+      internalID: 4719302204967466811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_59
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce3c82807f9841aab3f17079b13bb03
+      internalID: 6579377545863054338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_60
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa612c49c0f6e4888af0405861438606
+      internalID: -4263177504979279758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 47
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634cac7903403480c88b7fffdf04d13b
+      internalID: -3432626959918528657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f460688cbb924ed9931b44cf916efd1
+      internalID: -8270781638769055788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_63
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5ceda93773b48339658ff418f32d67
+      internalID: 2211437333081650603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_64
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 38
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93c336a3c657451ebf2b0bb2f8d4a8f
+      internalID: -3018281987925841929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_65
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 38
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe1920e5fc764eb9a1edf279c6532ef
+      internalID: 5589914093488967398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_66
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 38
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f566b00dceb486faa19cde7aeefd92
+      internalID: -2796913465264777954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_67
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 38
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b325e91098734fcd9b96b49e288d549
+      internalID: 3220208911322027424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_68
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 38
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a9644cc043845679a1776b5d70d744
+      internalID: -3449470357727942784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_69
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 38
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5ed23678e324dbc927e88d7d6474a3
+      internalID: 5461923288399155479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_70
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 29
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0a8c3f79d4a4fbca2187775fd6e4a3
+      internalID: 5773863573332032522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_71
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 29
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d7790ae8e1f40d2b105bbd90979796
+      internalID: 5272087452714920590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_72
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 29
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669089a55f8df4401a15014179476be1
+      internalID: -6882823418840574514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_73
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 29
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4c3853b9b5742e988640fdc79e8155
+      internalID: 2236929636848510781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 29
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279b060e52a4f4744ba8643bfc881e30
+      internalID: -4425760234746829818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_75
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 29
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478726d1b4ca342fbbba519a73c1e894
+      internalID: 1230788689173425330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_76
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 29
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a15dee000604465a32c01109e029f6
+      internalID: 1418815646645108352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_77
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 29
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266481fa8a43d45419af4f732d9bb6a4
+      internalID: -4514408467863014620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_78
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 29
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6586d0dec584f41b8972890917211a
+      internalID: -49313944032191730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_79
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 29
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51582687fe3145da9019d20c31af968
+      internalID: 8117849670814408924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_80
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 29
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911a030ef18804cd089c9bf103d1633a
+      internalID: 9007498890533970002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_81
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 29
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e003fccc73e4b9bba1e472e33b94bc
+      internalID: 6752802225751254796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_82
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 29
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172dff2f8feb04c22b5d36d650743082
+      internalID: 8652768283506467223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_83
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 29
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4b59cc68c124808a93065bb79f4f5b
+      internalID: -4318448493332364239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_84
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db91c9e4430449f295190d241f49e2a
+      internalID: 4117329593868345085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_85
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17982cd9616ba424191bf7b20af4de25
+      internalID: 5150348509061759110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_86
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41abe7b6c84724736b2f8ad4983a1c6f
+      internalID: 7772044060793771603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_87
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e70d6acfe6d45008cb4d6b6ab3b78c
+      internalID: -1662150748623854205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_88
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9a6c2f792464500b472afb24d3995b
+      internalID: 4663419484926223706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_89
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6dc20d8bb2448d783b58795fa0d19a
+      internalID: 426122914949261837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_90
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 20
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3f874f9b9f44ae58646d8f875576c6
+      internalID: -1124701344213679950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_91
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fe5fb0eaf374182b0bfd67e17a38a6
+      internalID: -3051835903237204151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_92
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea5eff6d5f804ff4b2a1a6eb60f867f
+      internalID: 6707886066709858483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_93
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dfa102fc6a84138b23e6a3dbf0458f
+      internalID: -2629830152325630506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_94
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ce9d84d7eed4a2cab9c5348c7f1cd3
+      internalID: -4789614985700989541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_95
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf383294d7967439fafd9b39f4c390f2
+      internalID: 1910563216855576950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_96
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 20
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19eaa4922acd4107bc5f7b454e22b50
+      internalID: 6162251813025993867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_97
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fb216f6b3c746e0847de3adf80631c
+      internalID: 4679537624151693468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_98
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 20
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23905bb77639e4d238f33809a5c6620b
+      internalID: 1789452230469313358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_99
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c5eaa1aacc2444da84ca9f22ef218a
+      internalID: 2717261335428787732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_100
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b12fb633c7a7459c9fb5aab13deecac
+      internalID: -3362435131610343183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_101
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47463f5b6e9bb49a783c446dfc83bcfa
+      internalID: 2696188095280614288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alys_102
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05931e32514f549e0b8c47eb8f8414df
+      internalID: 7028417801401719055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 151e22b636b24403c8b5fdf67a034a52
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

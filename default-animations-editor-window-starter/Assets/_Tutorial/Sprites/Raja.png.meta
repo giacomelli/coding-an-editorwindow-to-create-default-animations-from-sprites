@@ -1,0 +1,2248 @@
+fileFormatVersion: 2
+guid: 763780a93a9ed48d4b97d918638ae35d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2499380025284678853
+    second: Raja_0
+  - first:
+      213: 3424146888046259019
+    second: Raja_1
+  - first:
+      213: -2006049732067378256
+    second: Raja_2
+  - first:
+      213: 8771296238634053996
+    second: Raja_3
+  - first:
+      213: 5745370279944104918
+    second: Raja_4
+  - first:
+      213: -7875479863119267720
+    second: Raja_5
+  - first:
+      213: 3763024518834370104
+    second: Raja_6
+  - first:
+      213: -3223202153821844264
+    second: Raja_7
+  - first:
+      213: -161206120908375515
+    second: Raja_8
+  - first:
+      213: 2822311068720890399
+    second: Raja_9
+  - first:
+      213: 904132939987413879
+    second: Raja_10
+  - first:
+      213: -5581550110309364652
+    second: Raja_11
+  - first:
+      213: 7471937564059772017
+    second: Raja_12
+  - first:
+      213: -2050112879683487150
+    second: Raja_13
+  - first:
+      213: -8994465963195479376
+    second: Raja_14
+  - first:
+      213: 410584381205839657
+    second: Raja_15
+  - first:
+      213: 4445560651662999653
+    second: Raja_16
+  - first:
+      213: -6812126393232623925
+    second: Raja_17
+  - first:
+      213: 4321676813022690042
+    second: Raja_18
+  - first:
+      213: -4186878048055662375
+    second: Raja_19
+  - first:
+      213: -990254489222158624
+    second: Raja_20
+  - first:
+      213: -8421464528230001249
+    second: Raja_21
+  - first:
+      213: -9044027244037114875
+    second: Raja_22
+  - first:
+      213: 5219817172687369577
+    second: Raja_23
+  - first:
+      213: 8258908401642891456
+    second: Raja_24
+  - first:
+      213: -5161089584468019787
+    second: Raja_25
+  - first:
+      213: -4381176371145191270
+    second: Raja_26
+  - first:
+      213: 7749236517166713357
+    second: Raja_27
+  - first:
+      213: -4896653586380220432
+    second: Raja_28
+  - first:
+      213: 5915775642401327853
+    second: Raja_29
+  - first:
+      213: -3945371057415896451
+    second: Raja_30
+  - first:
+      213: 8822349669651118285
+    second: Raja_31
+  - first:
+      213: -79932778486779863
+    second: Raja_32
+  - first:
+      213: -7513731846376801630
+    second: Raja_33
+  - first:
+      213: -8628059644637903385
+    second: Raja_34
+  - first:
+      213: 7384558053634291595
+    second: Raja_35
+  - first:
+      213: 6642440599644796541
+    second: Raja_36
+  - first:
+      213: -6253473609651740961
+    second: Raja_37
+  - first:
+      213: 2271303081173087186
+    second: Raja_38
+  - first:
+      213: 3640368130716385186
+    second: Raja_39
+  - first:
+      213: 945812879268782483
+    second: Raja_40
+  - first:
+      213: 8764963629608206786
+    second: Raja_41
+  - first:
+      213: 7268976405274148427
+    second: Raja_42
+  - first:
+      213: -1712371816395572190
+    second: Raja_43
+  - first:
+      213: 2674046255381527386
+    second: Raja_44
+  - first:
+      213: 5198467146240673046
+    second: Raja_45
+  - first:
+      213: -2515778521389002281
+    second: Raja_46
+  - first:
+      213: 5920398644219118866
+    second: Raja_47
+  - first:
+      213: -3735996703424281301
+    second: Raja_48
+  - first:
+      213: -4673245011605562906
+    second: Raja_49
+  - first:
+      213: 8575859382560901792
+    second: Raja_50
+  - first:
+      213: 5483610480723164399
+    second: Raja_51
+  - first:
+      213: -2980271381557392467
+    second: Raja_52
+  - first:
+      213: -7909318896968573044
+    second: Raja_53
+  - first:
+      213: -2560124660015057156
+    second: Raja_54
+  - first:
+      213: 4268437157852324103
+    second: Raja_55
+  - first:
+      213: -458174910536540095
+    second: Raja_56
+  - first:
+      213: -6780321152462443248
+    second: Raja_57
+  - first:
+      213: 4009446102254967294
+    second: Raja_58
+  - first:
+      213: -8321248690811497101
+    second: Raja_59
+  - first:
+      213: 7386577144340325896
+    second: Raja_60
+  - first:
+      213: -7540993776206935118
+    second: Raja_61
+  - first:
+      213: -3192417819902407630
+    second: Raja_62
+  - first:
+      213: -3730280123296689439
+    second: Raja_63
+  - first:
+      213: -3482490964127736593
+    second: Raja_64
+  - first:
+      213: 5753304499562078123
+    second: Raja_65
+  - first:
+      213: 1055839273465177210
+    second: Raja_66
+  - first:
+      213: -2482155820223911562
+    second: Raja_67
+  - first:
+      213: -7959299630561025261
+    second: Raja_68
+  - first:
+      213: 8950768744093544534
+    second: Raja_69
+  - first:
+      213: 271093790616676214
+    second: Raja_70
+  - first:
+      213: 1047733805759678556
+    second: Raja_71
+  - first:
+      213: 3741010279223074447
+    second: Raja_72
+  - first:
+      213: -7085874622449192209
+    second: Raja_73
+  - first:
+      213: -1285060492170252406
+    second: Raja_74
+  - first:
+      213: 5495419007469544005
+    second: Raja_75
+  - first:
+      213: 8134565571532290564
+    second: Raja_76
+  - first:
+      213: -6493813192073070189
+    second: Raja_77
+  - first:
+      213: -2024665553030175382
+    second: Raja_78
+  - first:
+      213: 3617658529148201577
+    second: Raja_79
+  - first:
+      213: 303866825959041417
+    second: Raja_80
+  - first:
+      213: 4747782765375665684
+    second: Raja_81
+  - first:
+      213: -8658167254222406733
+    second: Raja_82
+  - first:
+      213: 616779389063596140
+    second: Raja_83
+  - first:
+      213: 8011576233877439792
+    second: Raja_84
+  - first:
+      213: 5831363204513247212
+    second: Raja_85
+  - first:
+      213: -3340382443469725161
+    second: Raja_86
+  - first:
+      213: -7413625327576435819
+    second: Raja_87
+  - first:
+      213: 7453345678278632966
+    second: Raja_88
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Raja_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 82
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03197b1520f884d2ca032bc5fd38fd11
+      internalID: 2499380025284678853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 98
+        width: 13
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c5b4aefb0544906be38e7216fb2a79
+      internalID: 3424146888046259019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 99
+        width: 13
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee48e20e64364a90b4c207ff7daf91b
+      internalID: -2006049732067378256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 98
+        width: 13
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a57e45e9448f4b51b30af2456eeab18
+      internalID: 8771296238634053996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 98
+        width: 13
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408f1d1338b1d4d918862d200fa74575
+      internalID: 5745370279944104918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 99
+        width: 13
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3179505b8269b47599dd4f80abd2bb19
+      internalID: -7875479863119267720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 98
+        width: 13
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c09cc4514da9421cb2a1c798e2d8df1
+      internalID: 3763024518834370104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_7
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 98
+        width: 12
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70f8f9d80a824dc6bc47d5e47ae7cfc
+      internalID: -3223202153821844264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 98
+        width: 10
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630525a378ba1496fb8bd95ced830e4e
+      internalID: -161206120908375515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 98
+        width: 12
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70da31d8400b4461996754d1bcc2ad26
+      internalID: 2822311068720890399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 112
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0cf3df5bd1a49e9a4ced6e311e7549
+      internalID: 904132939987413879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 81
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dfed9d28cfa44cdbb63cd270d12197
+      internalID: -5581550110309364652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faeec70ba1fd4490c89747cb666ae5e4
+      internalID: 7471937564059772017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_13
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e9991c56b7a4664a9ea0160e0a11d1
+      internalID: -2050112879683487150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_14
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137114b54f1e84e258e9229dcadebda8
+      internalID: -8994465963195479376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f056af7af52444fbba27bba85318b3
+      internalID: 410584381205839657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54cca9ae503f472ab391d70c40e8754
+      internalID: 4445560651662999653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56234504df8b64caeae9cf47185dd48c
+      internalID: -6812126393232623925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6219d09386e48f482e08d49426dc11
+      internalID: 4321676813022690042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9381f52f2c2b4dc591cf8517158d545
+      internalID: -4186878048055662375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_20
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba693bc62ef44391a42d28301dfcae2
+      internalID: -990254489222158624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_21
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9761206665645c3a39e3ce79a97765
+      internalID: -8421464528230001249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5b90650929345e281b50717e820c76
+      internalID: -9044027244037114875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5f9f367035c49a4b1e14c1e2146518
+      internalID: 5219817172687369577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5646dcbc5f76424b9998a14cd15b545
+      internalID: 8258908401642891456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_25
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014bc97fca1f648eca7453efac41e81c
+      internalID: -5161089584468019787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_26
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd770a65145f457dadc266e7e16b79a
+      internalID: -4381176371145191270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_27
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daefa5edea2b347c8ab3929d35736c95
+      internalID: 7749236517166713357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11eb861b90c4e447e9d472bd6141300b
+      internalID: -4896653586380220432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf969d05ba4a4412bd7f663720ee89f
+      internalID: 5915775642401327853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_30
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be88c5b49e2e472baa08ea72a0baa26
+      internalID: -3945371057415896451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3f48c1a67ac49008bec2da6c62b9c8
+      internalID: 8822349669651118285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_32
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776e37124b2714b298c550cae6e9d2a1
+      internalID: -79932778486779863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_33
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 63
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7f1d9586d38422cabe609ba2296e82
+      internalID: -7513731846376801630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3202ea54f404c17ad3c52d95e69b48
+      internalID: -8628059644637903385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_35
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7ac666be9e44c97a110bd88533e78b
+      internalID: 7384558053634291595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_36
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974166e973c4343e59123b9621bce219
+      internalID: 6642440599644796541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_37
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ca63879d21d417baa253a7a36cc7c9
+      internalID: -6253473609651740961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2900022940bef4114bb6ffea2bf015a6
+      internalID: 2271303081173087186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_39
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e897f465b9e4af589193de43ba8bb0
+      internalID: 3640368130716385186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_40
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11be84a302b274093bbd9a7024de02e3
+      internalID: 945812879268782483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_41
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519251e6a184f421c8f75342aabb0fc3
+      internalID: 8764963629608206786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_42
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 54
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e2ef48b574c4bf8a47d840b1effcce
+      internalID: 7268976405274148427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_43
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a4c858e9fea4d79ad172f842f986a4
+      internalID: -1712371816395572190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_44
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe11ad1ee1ad46c5ad9f9d820d5daf8
+      internalID: 2674046255381527386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_45
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c52cf566dfd4dd8904de595f9fa564
+      internalID: 5198467146240673046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_46
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727473d83a97745048f53ade686756d1
+      internalID: -2515778521389002281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_47
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 54
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b7dab20d4c64bbea30da0cfb294cb5
+      internalID: 5920398644219118866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_48
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896b2f832262a4eb5844c07e535946f6
+      internalID: -3735996703424281301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_49
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e458ba6d0dd749c28b1ccc17f79b9a2
+      internalID: -4673245011605562906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_50
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 45
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93f261bf7ec649ffa138b49e8f35fa0
+      internalID: 8575859382560901792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 45
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a4ed27668a84a7e85a0c9fbfe924ca
+      internalID: 5483610480723164399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_52
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 45
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568b6c51444e7418fa3a6e5da6788034
+      internalID: -2980271381557392467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_53
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 45
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e20820c81df4c569053635d3fd2a60
+      internalID: -7909318896968573044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 45
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b866f995225704fc4903140c84a8a418
+      internalID: -2560124660015057156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_55
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 45
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffbd5e41cdee4431b4375d286e405cf
+      internalID: 4268437157852324103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_56
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 36
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe5d3cc0d5954073975a445d3a806b5
+      internalID: -458174910536540095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_57
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92204a3ce33744c318791d56e842f05d
+      internalID: -6780321152462443248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_58
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f47083b1e56045c99eadacc05f1e173
+      internalID: 4009446102254967294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_59
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdc97b891fab44578039a72fb1b8044
+      internalID: -8321248690811497101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_60
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb36c1b888d14e9583ea3961484bdf0
+      internalID: 7386577144340325896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f71224202e2d4cf98244ad6bac75cbb
+      internalID: -7540993776206935118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_62
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6319f99450a984b2e80703b647043c8c
+      internalID: -3192417819902407630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_63
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70336a0618d514b56bf14b265378fb3a
+      internalID: -3730280123296689439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_64
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46daa462578054ae9836631dd6682f68
+      internalID: -3482490964127736593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_65
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 36
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664adc01057c34152b5cbc9164b28d00
+      internalID: 5753304499562078123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_66
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82216772e5080421896d55d844925229
+      internalID: 1055839273465177210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_67
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0b2f09687cb4c888a8357197e20d75
+      internalID: -2482155820223911562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_68
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 36
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aef914b953f34aa1b18d5b6f3097594
+      internalID: -7959299630561025261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_69
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b510c5fc0b7914612a40472283e6f892
+      internalID: 8950768744093544534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_70
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100e2c7cb54024a81bc9084474424e2b
+      internalID: 271093790616676214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_71
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fb81731985245568c77dfb876a91ff
+      internalID: 1047733805759678556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_72
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8d32af4ded943cc9ccc273ddbba0e9
+      internalID: 3741010279223074447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_73
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068bd49c4a39345e89b99191433ee94c
+      internalID: -7085874622449192209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_74
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc91e949b57954683918632f5be544c7
+      internalID: -1285060492170252406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_75
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78db70cabd1354278a9773e80d756775
+      internalID: 5495419007469544005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_76
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 27
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b3db58c85454b10b188ae9e5f45f7c
+      internalID: 8134565571532290564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_77
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006b51b7fbd124bbb8c8484ce3e1a275
+      internalID: -6493813192073070189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_78
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af1d1d6a10904f81a21fc0ec6f67e1d
+      internalID: -2024665553030175382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_79
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e988a20faae4af69690b04ece67ace
+      internalID: 3617658529148201577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_80
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053cb855d65e141c29a1ec3b4345005c
+      internalID: 303866825959041417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_81
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b38fbc1263e4e6ca3bd2508aafcb60
+      internalID: 4747782765375665684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_82
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 27
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc72f4820a34c46cfa397b5552d1ec82
+      internalID: -8658167254222406733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_83
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35bef7b102424558a63fad3a5eb7998
+      internalID: 616779389063596140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_84
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 18
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53511d72024b4778bc067dfec2aa15b
+      internalID: 8011576233877439792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_85
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 18
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c388842a0dadb434f88a305b74a78e78
+      internalID: 5831363204513247212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_86
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 18
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f0b9695e3ec459cadfc2c9bd0270b6
+      internalID: -3340382443469725161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_87
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 18
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0186b0ef919a64531abe6cfb0d7b0cb1
+      internalID: -7413625327576435819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raja_88
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 18
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688363cde59874113a062fc37ab7a409
+      internalID: 7453345678278632966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 58c2f3992b60d49fe810e3eb768b2b96
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
