@@ -15,12 +15,11 @@ public class HeroController : MonoBehaviour
 
     void Update()
     {
-        var h = Input.GetAxis("Horizontal");
-        var v = Input.GetAxis("Vertical");
+        var direction = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical")).normalized;
 
-        _renderer.flipX = h < 0;
-        _anim.SetFloat("DirectionX", h);
-        _anim.SetFloat("DirectionY", v);
-        _anim.SetBool("Walk", !Mathf.Approximately(h, 0) || !Mathf.Approximately(v, 0));
+        _renderer.flipX = direction.x < 0;
+        _anim.SetFloat("DirectionX", direction.x);
+        _anim.SetFloat("DirectionY", direction.x == 0 ? direction.y : 0);
+        _anim.SetBool("Walk", direction.magnitude > 0);
     }
 }
