@@ -1,8 +1,17 @@
 ﻿using UnityEditor;
 using UnityEngine;
 
+/// <summary>
+/// Asset helper.
+/// </summary>
 public static class AssetHelper
 {
+    /// <summary>
+    /// Gets the asset with the specified name from the DefaultAnimationsSettings.Instance.AnimationsFolder.
+    /// </summary>
+    /// <returns>The asset.</returns>
+    /// <param name="name">Name.</param>
+    /// <typeparam name="TAsset">The 1st type parameter.</typeparam>
     public static TAsset GetAsset<TAsset>(string name)
     where TAsset : Object, new()
     {
@@ -10,6 +19,10 @@ public static class AssetHelper
         return AssetDatabase.LoadAssetAtPath<TAsset>(path) ?? new TAsset { name = name };
     }
 
+    /// <summary>
+    /// Saves the asset to the DefaultAnimationsSettings.Instance.AnimationsFolder.
+    /// </summary>
+    /// <param name="asset">Asset.</param>
     public static void SaveAsset(this Object asset)
     {
         var path = GetAssetPath(asset.name, asset.GetType());
