@@ -9,13 +9,6 @@ using UnityEngine;
 /// </summary>
 public static class DefaultAnimationsUtility
 {
-    static EditorCurveBinding _spriteCurveBinding = new EditorCurveBinding
-    {
-        type = typeof(SpriteRenderer),
-        path = "",
-        propertyName = "m_Sprite"
-    };
-
     /// <summary>
     /// Create the default animations (Animation Clips and Animator Override Controller) based on Animations Mapping.
     /// </summary>
@@ -79,7 +72,7 @@ public static class DefaultAnimationsUtility
         var clipToOverrideSettings = AnimationUtility.GetAnimationClipSettings(map.ClipToOverride);
         clip.EditSettings(s => s.loopTime = clipToOverrideSettings.loopTime);
 
-        var keyFramesToOverride = GetKeyFrames(map.ClipToOverride);
+        var keyFramesToOverride = map.ClipToOverride.GetKeyFrames();
         var keyFrames = new ObjectReferenceKeyframe[sprites.Length];
 
         for (int i = 0; i < sprites.Length; i++)
@@ -92,20 +85,10 @@ public static class DefaultAnimationsUtility
             };
         }
 
-        SetKeyFrames(clip, keyFrames);
+        clip.SetKeyFrames(keyFrames);
         SaveAsset(clip);
 
         return clip;
-    }
- 
-    public static ObjectReferenceKeyframe[] GetKeyFrames(AnimationClip clip)
-    {
-        return AnimationUtility.GetObjectReferenceCurve(clip, _spriteCurveBinding);
-    }
-
-    private static void SetKeyFrames(AnimationClip clip, ObjectReferenceKeyframe[] keyFrames)
-    {
-        AnimationUtility.SetObjectReferenceCurve(clip, _spriteCurveBinding, keyFrames);
     }
 
     private static AnimatorOverrideController CreateAnimatorOverride(Sprite[] sprites, AnimationClip[] overrideClips)
