@@ -1,0 +1,2392 @@
+fileFormatVersion: 2
+guid: 1c1adf9b63aaa46098dccbca7bcd60b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8386645779307496254
+    second: Rune_0
+  - first:
+      213: -4902359646237975460
+    second: Rune_1
+  - first:
+      213: 2420670467884986134
+    second: Rune_2
+  - first:
+      213: -3217309594128102768
+    second: Rune_3
+  - first:
+      213: -6441683378070013353
+    second: Rune_4
+  - first:
+      213: 6815779543259444446
+    second: Rune_5
+  - first:
+      213: -2996116242049171636
+    second: Rune_6
+  - first:
+      213: 2939654348323510017
+    second: Rune_7
+  - first:
+      213: -9126697535521978513
+    second: Rune_8
+  - first:
+      213: -3510986646039951083
+    second: Rune_9
+  - first:
+      213: 5446785671126159333
+    second: Rune_10
+  - first:
+      213: -4625152318885694829
+    second: Rune_11
+  - first:
+      213: -6539036341649310847
+    second: Rune_12
+  - first:
+      213: 2488916587265033637
+    second: Rune_13
+  - first:
+      213: -5677573484852028634
+    second: Rune_14
+  - first:
+      213: 4333328275674231036
+    second: Rune_15
+  - first:
+      213: 3756710924393019213
+    second: Rune_16
+  - first:
+      213: 8427369370695961684
+    second: Rune_17
+  - first:
+      213: -3933998570181215476
+    second: Rune_18
+  - first:
+      213: -6026705732241462214
+    second: Rune_19
+  - first:
+      213: 1594227092267619413
+    second: Rune_20
+  - first:
+      213: -6799445852205757499
+    second: Rune_21
+  - first:
+      213: -8884049825023853510
+    second: Rune_22
+  - first:
+      213: -4855813999107608747
+    second: Rune_23
+  - first:
+      213: -5104371380788102753
+    second: Rune_24
+  - first:
+      213: -4017094081007497833
+    second: Rune_25
+  - first:
+      213: -5877139476373129996
+    second: Rune_26
+  - first:
+      213: 7092626590254069778
+    second: Rune_27
+  - first:
+      213: 5620211045573597938
+    second: Rune_28
+  - first:
+      213: -4988506526550483713
+    second: Rune_29
+  - first:
+      213: 4405762064451297094
+    second: Rune_30
+  - first:
+      213: 7391316104855726882
+    second: Rune_31
+  - first:
+      213: -4286548809077688266
+    second: Rune_32
+  - first:
+      213: -282653427418630026
+    second: Rune_33
+  - first:
+      213: 8479423521279956975
+    second: Rune_34
+  - first:
+      213: -7394872628692952988
+    second: Rune_35
+  - first:
+      213: -6979357903351373233
+    second: Rune_36
+  - first:
+      213: -1502494971479061862
+    second: Rune_37
+  - first:
+      213: 4654539038549323549
+    second: Rune_38
+  - first:
+      213: 5519925769471713139
+    second: Rune_39
+  - first:
+      213: 7535553635335102819
+    second: Rune_40
+  - first:
+      213: -5600603953126364859
+    second: Rune_41
+  - first:
+      213: -6080289167724512434
+    second: Rune_42
+  - first:
+      213: -7860007800985273841
+    second: Rune_43
+  - first:
+      213: 7259816427195715362
+    second: Rune_44
+  - first:
+      213: 5594911664096632093
+    second: Rune_45
+  - first:
+      213: -9159967110366410958
+    second: Rune_46
+  - first:
+      213: 5749494765536202608
+    second: Rune_47
+  - first:
+      213: 5347613123991602226
+    second: Rune_48
+  - first:
+      213: 8148564596064866456
+    second: Rune_49
+  - first:
+      213: 7773454355163455956
+    second: Rune_50
+  - first:
+      213: 8591187023431242888
+    second: Rune_51
+  - first:
+      213: -5761356460864764808
+    second: Rune_52
+  - first:
+      213: 8753030002807678708
+    second: Rune_53
+  - first:
+      213: -8858429171604317569
+    second: Rune_54
+  - first:
+      213: 8487596331128135952
+    second: Rune_55
+  - first:
+      213: 8894408306983353868
+    second: Rune_56
+  - first:
+      213: -6729945184621556879
+    second: Rune_57
+  - first:
+      213: -8149392111182281936
+    second: Rune_58
+  - first:
+      213: 5293636672717412218
+    second: Rune_59
+  - first:
+      213: 7523735649402937189
+    second: Rune_60
+  - first:
+      213: 3690278812321256103
+    second: Rune_61
+  - first:
+      213: -5471482730389759773
+    second: Rune_62
+  - first:
+      213: -4200537470817913131
+    second: Rune_63
+  - first:
+      213: 5016098328996186958
+    second: Rune_64
+  - first:
+      213: -4748966708573686530
+    second: Rune_65
+  - first:
+      213: -3889260134185143578
+    second: Rune_66
+  - first:
+      213: 6164485573700159015
+    second: Rune_67
+  - first:
+      213: -8601929721972812090
+    second: Rune_68
+  - first:
+      213: 6112250209287763573
+    second: Rune_69
+  - first:
+      213: 5646961779145031967
+    second: Rune_70
+  - first:
+      213: 4593028650258178788
+    second: Rune_71
+  - first:
+      213: -1697271497666678550
+    second: Rune_72
+  - first:
+      213: -7597713106235050513
+    second: Rune_73
+  - first:
+      213: -3323416785722622910
+    second: Rune_74
+  - first:
+      213: 9109380587670918670
+    second: Rune_75
+  - first:
+      213: -6534807203805719806
+    second: Rune_76
+  - first:
+      213: 5747796353432534773
+    second: Rune_77
+  - first:
+      213: -4490656812189763952
+    second: Rune_78
+  - first:
+      213: 2471980374691289140
+    second: Rune_79
+  - first:
+      213: -7858843287690200357
+    second: Rune_80
+  - first:
+      213: -1810884783069330677
+    second: Rune_81
+  - first:
+      213: -7908014575306996038
+    second: Rune_82
+  - first:
+      213: -3054382431245099221
+    second: Rune_83
+  - first:
+      213: -2850046483041888352
+    second: Rune_84
+  - first:
+      213: 9005558699893055966
+    second: Rune_85
+  - first:
+      213: -8325678340654994130
+    second: Rune_86
+  - first:
+      213: 3454627743734509073
+    second: Rune_87
+  - first:
+      213: 5719636643024938227
+    second: Rune_88
+  - first:
+      213: -6064153724210651877
+    second: Rune_89
+  - first:
+      213: 4286425379410580748
+    second: Rune_90
+  - first:
+      213: -3830011596115201770
+    second: Rune_91
+  - first:
+      213: 9212301732730952482
+    second: Rune_92
+  - first:
+      213: 145464715507816275
+    second: Rune_93
+  - first:
+      213: -5355534567926945454
+    second: Rune_94
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rune_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 82
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b07b04cd51d1449fbc29460db71e1ca
+      internalID: -8386645779307496254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 99
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cbf982015004b82a844b1662692bb0
+      internalID: -4902359646237975460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 100
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1acb75a606d4440b05ae06822c7401
+      internalID: 2420670467884986134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 99
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ed0e8e8be564bd4bdcc79de16cc389
+      internalID: -3217309594128102768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 99
+        width: 15
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ea2271d0dce4d8082500dc687660cc
+      internalID: -6441683378070013353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 100
+        width: 15
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63037c513255945989e08e7fe3cdaf0e
+      internalID: 6815779543259444446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 99
+        width: 15
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754fb459c95c8453aa603cddd5ead127
+      internalID: -2996116242049171636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 99
+        width: 13
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7e1135b7d4c47579ba4ed7bd2dcf25
+      internalID: 2939654348323510017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 99
+        width: 11
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b9a23ec974e4d318c97ec77af9eb23
+      internalID: -9126697535521978513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_9
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 99
+        width: 13
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56bcedaf013648a5bf92474bf2dcc70
+      internalID: -3510986646039951083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35a6dfe350ef4071a25e80eb0cbc623
+      internalID: 5446785671126159333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 65
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596e20f6299904344bb8857daef0491c
+      internalID: -4625152318885694829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 65
+        width: 15
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b118afb8b4abc4fec9692ed145bb1b6f
+      internalID: -6539036341649310847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_13
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 65
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0432063e28e574af9984fe7004c4f517
+      internalID: 2488916587265033637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc7e401f927c4ec78f3e1c6a2ab90f2
+      internalID: -5677573484852028634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 56
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354f7b247441c4749979487ad0d31f86
+      internalID: 4333328275674231036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 56
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd328fbbd96d42229b70940850c81e8
+      internalID: 3756710924393019213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_17
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 56
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800957446506147ae9791e0e322eddbc
+      internalID: 8427369370695961684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_18
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 56
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6420a0de6ff4582a830bc5985e06b4
+      internalID: -3933998570181215476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_19
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 56
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a92a0bfee794eef9acb241d0d9bf45
+      internalID: -6026705732241462214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 56
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e638074d28bfc44899a74bc272d6628c
+      internalID: 1594227092267619413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 56
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b198bca5dc446409a78c0e5f567287
+      internalID: -6799445852205757499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 56
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318cfc3b360ae46b299ef1ae22382804
+      internalID: -8884049825023853510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_23
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 56
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34285a2e9dbc847fdb1e54c6b7073a74
+      internalID: -4855813999107608747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 56
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb98e7720b580433eb5658552527eb2e
+      internalID: -5104371380788102753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 56
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb611562a2c94639b463f369ac3ad28
+      internalID: -4017094081007497833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_26
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 56
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40df663064ea45d29093de7f09e82b5
+      internalID: -5877139476373129996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_27
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa664a936a8e450f8ab9f5b9e283998
+      internalID: 7092626590254069778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dabb93896174b8dad62e89db087d14
+      internalID: 5620211045573597938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_29
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89eaa6381b2574f35b4f361b9e38a606
+      internalID: -4988506526550483713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2588f069621a4942ac9841a50a2b753
+      internalID: 4405762064451297094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_31
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561b7ea45c62b476a913613eb7866285
+      internalID: 7391316104855726882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_32
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f775193a99f014b3192e6f9b8540915f
+      internalID: -4286548809077688266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_33
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ef8e38ae5994749be1264403c7cd0a
+      internalID: -282653427418630026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276f16a1376b44672b77b394acca8fee
+      internalID: 8479423521279956975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_35
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9461c03129de4c06a2363402ab177ff
+      internalID: -7394872628692952988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_36
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9101c1523ccda444d925ee969c29d8ea
+      internalID: -6979357903351373233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2011e7980e32d4ce1821ece88b830d62
+      internalID: -1502494971479061862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_38
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 47
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b321cb4e3e64d308586082349a8cd9
+      internalID: 4654539038549323549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_39
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 47
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30803de85a1e47c583569b94f62dd58
+      internalID: 5519925769471713139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_40
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 38
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba9303e43ec5489c804b0e2dcf89139
+      internalID: 7535553635335102819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_41
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 38
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4694246bf0204d84abc7917ca5a15dd
+      internalID: -5600603953126364859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_42
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 38
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb8437551eb447c29da791dc7ed96a7
+      internalID: -6080289167724512434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_43
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 38
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1fe08d82eb54118882f6b95bf04567
+      internalID: -7860007800985273841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 38
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3e32e653da74968a00949688064bbf
+      internalID: 7259816427195715362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_45
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 38
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948f6db6966b34e528999f1893bd7439
+      internalID: 5594911664096632093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_46
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 38
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9ac7bca10b24ddcb2c5c80eb291b3b
+      internalID: -9159967110366410958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_47
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 38
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56674d668b72470494eea337f877cb7
+      internalID: 5749494765536202608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_48
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 38
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69b824cd63c444c7bbdb873568d9ecd
+      internalID: 5347613123991602226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_49
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 38
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ffa8880190443459c168131d2a28d4
+      internalID: 8148564596064866456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_50
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 38
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dde9a8441b445b283adb2df4e9c63c
+      internalID: 7773454355163455956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_51
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 38
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148478836ba164b5fa01b84a95e5c031
+      internalID: 8591187023431242888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_52
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 38
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f321d4fad5cd24cc684a91938a288ab8
+      internalID: -5761356460864764808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_53
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 38
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab6bd8e6b8de4993a98ed91a68ea864
+      internalID: 8753030002807678708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_54
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 38
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e6e40be30574eb9b887bc3c0b86e82
+      internalID: -8858429171604317569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_55
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 38
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512a2aa70e14b42a08eb3737a03e209d
+      internalID: 8487596331128135952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_56
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 29
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594529ceb25fe4d94ace4ba06a915475
+      internalID: 8894408306983353868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 29
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ad0055e05e0441f8a8c6f0091f8511
+      internalID: -6729945184621556879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_58
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 29
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab43b457f3b0c4601ad00a2e9495969c
+      internalID: -8149392111182281936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_59
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 29
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70482ab4fb148486bbb0f989b7604e1f
+      internalID: 5293636672717412218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_60
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 29
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905bc7320569547589fc29097ea5e00e
+      internalID: 7523735649402937189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_61
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 29
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c03e7b1c9341443394e06707a26bae6
+      internalID: 3690278812321256103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_62
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 20
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0977db3368654a339a02613df7207ee
+      internalID: -5471482730389759773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_63
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce1dc8186793436fb60f8021f73878f
+      internalID: -4200537470817913131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_64
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0eb3c7afd2874618aa03195f20bde86
+      internalID: 5016098328996186958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_65
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e6f12938ac948b5a9c87487a0d4c89
+      internalID: -4748966708573686530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_66
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1510c8f18ba2f4403ae4409cce5b5801
+      internalID: -3889260134185143578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda307efed250439c8cd4b746a790ec5
+      internalID: 6164485573700159015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_68
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3ee88d1ec9445029b5c8e73a241a6d
+      internalID: -8601929721972812090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_69
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13849838e689b44a78e74ff514fa5cdf
+      internalID: 6112250209287763573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_70
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538ec7072234945cc9493b2afbfe56c9
+      internalID: 5646961779145031967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_71
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 20
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65365b8fec19432fbb97bdd3892d5dc
+      internalID: 4593028650258178788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_72
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c3acaf762a54a3b9c656b066537ff2
+      internalID: -1697271497666678550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_73
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa612fd78ba94f84b42e4751dd9deeb
+      internalID: -7597713106235050513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_74
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 20
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b2c80e76339413ebd10cb12ac39656
+      internalID: -3323416785722622910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_75
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 20
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489e9cc5c07dd46bdb975bb7dd84ecc6
+      internalID: 9109380587670918670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_76
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 11
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba8b7f30069f414fa1f5b7a0ff8bf7d
+      internalID: -6534807203805719806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_77
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 11
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5ed8673986347709514bf0a49c74b3
+      internalID: 5747796353432534773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_78
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 11
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba50baddfce347f8973e85d039659fc
+      internalID: -4490656812189763952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_79
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 11
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f42a6ae044564b9f95ebb752461732d
+      internalID: 2471980374691289140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_80
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 11
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a09669b7212490b95fb4334f4ce355
+      internalID: -7858843287690200357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_81
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 11
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb93d9ec3db044bb8abc8abd792c451
+      internalID: -1810884783069330677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_82
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 11
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe6a571e6c394cc0ad1b5289851daf2
+      internalID: -7908014575306996038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_83
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 11
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48d61fe11e09499a918a15191825df9
+      internalID: -3054382431245099221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_84
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 11
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73055851b3fdf4f3daf71f8683bbdafc
+      internalID: -2850046483041888352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_85
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 11
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1c4c95a70b541089fa79427a0cb03c
+      internalID: 9005558699893055966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_86
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 11
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e532f0666dc450e960937d1a563f77
+      internalID: -8325678340654994130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_87
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 11
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cd8759595324a8395caaf9cb0bd60a
+      internalID: 3454627743734509073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_88
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 11
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75941e9dd7b0542cd8bf0cd1c59b4bbd
+      internalID: 5719636643024938227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_89
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 11
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0ba3b56eaf746539bd6587eb0ac659
+      internalID: -6064153724210651877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_90
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98dad95430be4bec8d5c6867fea83ce
+      internalID: 4286425379410580748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_91
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa964403fcc24b608c0c2dbfdfd92a8
+      internalID: -3830011596115201770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_92
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4a7601b68fc4ee5863bb3030b94303
+      internalID: 9212301732730952482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_93
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9b423a9b7e44777ab818e12e91ef41
+      internalID: 145464715507816275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rune_94
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cec963ded9d4696b9b81aba3de83c3
+      internalID: -5355534567926945454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6d58b203cbfbb455daa9a66a43accbeb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

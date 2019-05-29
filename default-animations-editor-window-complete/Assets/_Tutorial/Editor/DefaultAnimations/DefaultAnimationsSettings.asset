@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74e5fe13ae61b45fda0b0c05e1785739, type: 3}
+  m_Name: DefaultAnimationsSettings
+  m_EditorClassIdentifier: 
+  AnimatorController: {fileID: 9100000, guid: 86daf26b062004e1386dd3792e8e9fe6, type: 2}
+  AnimationsMapping:
+  - Name: Idle
+    ClipToOverride: {fileID: 7400000, guid: 7366f69be672a471b85da5aa615337eb, type: 2}
+  - Name: Walk-Down
+    ClipToOverride: {fileID: 7400000, guid: 29f13e499aa4c44a2ad44d6c5e781c49, type: 2}
+  - Name: Walk-Horizontal
+    ClipToOverride: {fileID: 7400000, guid: 17c6388604ae941a6a03d363756331a4, type: 2}
+  - Name: Walk-Up
+    ClipToOverride: {fileID: 7400000, guid: 80e0998a000c741d0a9a4dc66844eba5, type: 2}
+  AnimationsFolder: Assets/_Tutorial/Animations
+  Spritesheets:
+  - {fileID: 2800000, guid: f8b720b6a00db443dbf2745e3e624c94, type: 3}
+  - {fileID: 2800000, guid: d91f1d080f3a042d6be0ac8e1730de57, type: 3}
+  - {fileID: 2800000, guid: 763780a93a9ed48d4b97d918638ae35d, type: 3}
+  - {fileID: 2800000, guid: 1ac715b9b88e44bf790e3ea82c6a302a, type: 3}
+  - {fileID: 2800000, guid: e7e760ca2dafb407680c91227e4983cd, type: 3}
+  - {fileID: 2800000, guid: 1c1adf9b63aaa46098dccbca7bcd60b2, type: 3}
+  - {fileID: 2800000, guid: 7439ef9d7873b4718b610fdd671e0c3c, type: 3}
+  - {fileID: 2800000, guid: c6bdd90e79c2e49cf8f05b342b046cd8, type: 3}
+  - {fileID: 2800000, guid: 658491ce0e802450ca684467509b4c2c, type: 3}

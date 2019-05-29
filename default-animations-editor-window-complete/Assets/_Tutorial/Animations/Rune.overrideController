@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Rune
+  m_Controller: {fileID: 9100000, guid: 86daf26b062004e1386dd3792e8e9fe6, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 7366f69be672a471b85da5aa615337eb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b5a8e18fbd4e34adf93dcc431fc856a0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 29f13e499aa4c44a2ad44d6c5e781c49, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5bf766ee6b5f349ec98c544e43a89afa, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 17c6388604ae941a6a03d363756331a4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1cff706e308a549e2be22d968135e968, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 80e0998a000c741d0a9a4dc66844eba5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5a725185589b042b8b2f1b0d840b5b9d, type: 2}

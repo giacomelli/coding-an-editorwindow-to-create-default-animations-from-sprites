@@ -1,0 +1,2176 @@
+fileFormatVersion: 2
+guid: c6bdd90e79c2e49cf8f05b342b046cd8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1686792774357927265
+    second: Rika_0
+  - first:
+      213: 5366306273458861633
+    second: Rika_1
+  - first:
+      213: -9081292353602380770
+    second: Rika_2
+  - first:
+      213: 6835906449505268497
+    second: Rika_3
+  - first:
+      213: -7263334499743302704
+    second: Rika_4
+  - first:
+      213: 6275608764121894564
+    second: Rika_5
+  - first:
+      213: -6194624079928621018
+    second: Rika_6
+  - first:
+      213: 995870808300306122
+    second: Rika_7
+  - first:
+      213: 7237695417461815498
+    second: Rika_8
+  - first:
+      213: 2662840005994712379
+    second: Rika_9
+  - first:
+      213: 4871929584661791240
+    second: Rika_10
+  - first:
+      213: -2275929254686206626
+    second: Rika_11
+  - first:
+      213: -8033831686416909697
+    second: Rika_12
+  - first:
+      213: -5043903233449157717
+    second: Rika_13
+  - first:
+      213: -7634247166071042121
+    second: Rika_14
+  - first:
+      213: 3509002941925283853
+    second: Rika_15
+  - first:
+      213: -3995662825012145148
+    second: Rika_16
+  - first:
+      213: -7950669374552711222
+    second: Rika_17
+  - first:
+      213: 8023351349111020855
+    second: Rika_18
+  - first:
+      213: 4828705618399591250
+    second: Rika_19
+  - first:
+      213: -6026143099730471204
+    second: Rika_20
+  - first:
+      213: 1825002179496429723
+    second: Rika_21
+  - first:
+      213: 9206084060805443513
+    second: Rika_22
+  - first:
+      213: 7502063642466581739
+    second: Rika_23
+  - first:
+      213: -7121470364821244735
+    second: Rika_24
+  - first:
+      213: 4798508160781170542
+    second: Rika_25
+  - first:
+      213: -4588374621161620905
+    second: Rika_26
+  - first:
+      213: 2374954443961181412
+    second: Rika_27
+  - first:
+      213: 1622194758332254950
+    second: Rika_28
+  - first:
+      213: 3169935738694129249
+    second: Rika_29
+  - first:
+      213: 6270854490999501585
+    second: Rika_30
+  - first:
+      213: 570035218471937661
+    second: Rika_31
+  - first:
+      213: 8495286381504859259
+    second: Rika_32
+  - first:
+      213: -3377768321145504116
+    second: Rika_33
+  - first:
+      213: 7749116083481375504
+    second: Rika_34
+  - first:
+      213: -2983140065141284587
+    second: Rika_35
+  - first:
+      213: -4764898980279580798
+    second: Rika_36
+  - first:
+      213: 8109065191256107953
+    second: Rika_37
+  - first:
+      213: -3103246854203606898
+    second: Rika_38
+  - first:
+      213: -962343806208188590
+    second: Rika_39
+  - first:
+      213: -5378326496847192250
+    second: Rika_40
+  - first:
+      213: 2457487567518653046
+    second: Rika_41
+  - first:
+      213: -5493846948521811756
+    second: Rika_42
+  - first:
+      213: -5709331221690271409
+    second: Rika_43
+  - first:
+      213: -2197126477189988244
+    second: Rika_44
+  - first:
+      213: -7074696404195235436
+    second: Rika_45
+  - first:
+      213: 3150865133759790465
+    second: Rika_46
+  - first:
+      213: 8022277675557614281
+    second: Rika_47
+  - first:
+      213: -5077757193716823506
+    second: Rika_48
+  - first:
+      213: -2187433747977546898
+    second: Rika_49
+  - first:
+      213: 5577050693155132380
+    second: Rika_50
+  - first:
+      213: 3029482550844806025
+    second: Rika_51
+  - first:
+      213: -2061988568625433666
+    second: Rika_52
+  - first:
+      213: -1329067629419264640
+    second: Rika_53
+  - first:
+      213: 6607274486339103458
+    second: Rika_54
+  - first:
+      213: 614443686589350076
+    second: Rika_55
+  - first:
+      213: -3221207177511632740
+    second: Rika_56
+  - first:
+      213: 7040602002947531191
+    second: Rika_57
+  - first:
+      213: 2824785619621092703
+    second: Rika_58
+  - first:
+      213: -6756977721519715557
+    second: Rika_59
+  - first:
+      213: -7099513167492869367
+    second: Rika_60
+  - first:
+      213: 288393636092196090
+    second: Rika_61
+  - first:
+      213: 2272105098701509627
+    second: Rika_62
+  - first:
+      213: -5593772794785303508
+    second: Rika_63
+  - first:
+      213: -6965378686629008539
+    second: Rika_64
+  - first:
+      213: 2156175552860317397
+    second: Rika_65
+  - first:
+      213: -1326624375169589880
+    second: Rika_66
+  - first:
+      213: -5118028226867395161
+    second: Rika_67
+  - first:
+      213: -7591091676241704709
+    second: Rika_68
+  - first:
+      213: 6218398158799734962
+    second: Rika_69
+  - first:
+      213: -8324039719099123083
+    second: Rika_70
+  - first:
+      213: -2124888794205285213
+    second: Rika_71
+  - first:
+      213: 4533202406232987224
+    second: Rika_72
+  - first:
+      213: -3863620502571829773
+    second: Rika_73
+  - first:
+      213: 597828258166597306
+    second: Rika_74
+  - first:
+      213: -4258795882474506341
+    second: Rika_75
+  - first:
+      213: -8562144327975669948
+    second: Rika_76
+  - first:
+      213: 3558187690968469420
+    second: Rika_77
+  - first:
+      213: -4516962210507475335
+    second: Rika_78
+  - first:
+      213: -7629025610335676679
+    second: Rika_79
+  - first:
+      213: -8476792832457112666
+    second: Rika_80
+  - first:
+      213: -7340649145455686414
+    second: Rika_81
+  - first:
+      213: -4890854877255708196
+    second: Rika_82
+  - first:
+      213: 9100776293769830172
+    second: Rika_83
+  - first:
+      213: -1677978462135258612
+    second: Rika_84
+  - first:
+      213: -4496827293045604519
+    second: Rika_85
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rika_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 82
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0cf2e80cc3e4ad2a2d0a210ab48726
+      internalID: 1686792774357927265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 87
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc26ca735593c4b67b43107951476688
+      internalID: 5366306273458861633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 88
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0645513d8ecf94e1696395de1d4832b9
+      internalID: -9081292353602380770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 87
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01267941d4eaf425ab5dc9b285ae95a7
+      internalID: 6835906449505268497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 87
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210550626927443e48936f9f5fabcf3b
+      internalID: -7263334499743302704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 88
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b874570ddaa44e26b2db0a6e4c0edcb
+      internalID: 6275608764121894564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 87
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23aac85e0482d465b8e183116de5de05
+      internalID: -6194624079928621018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 87
+        width: 13
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a988c6947057e4f4a9ff36e3a083edb8
+      internalID: 995870808300306122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 87
+        width: 12
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df387df2ac984e67b26992efc382a6f
+      internalID: 7237695417461815498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_9
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 87
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3084fc3c578114b57aaae1a7dc875352
+      internalID: 2662840005994712379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d41932b9eeb48afa46f6a2ed8f8e4f
+      internalID: 4871929584661791240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 72
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e10896f44784e738c74f07aa87c972
+      internalID: -2275929254686206626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_12
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4add69bba4b974f53b4a1d57d0117633
+      internalID: -8033831686416909697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4c82cce156943019a3ab1889726a86
+      internalID: -5043903233449157717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772409b2db13740aea4a4b2904676d80
+      internalID: -7634247166071042121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c6b5a15857f4c55a20d653a3104d81
+      internalID: 3509002941925283853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f214b04a4c90b4ee4abcdaa28f183b9f
+      internalID: -3995662825012145148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcdee010ba864a00a317797627ad609
+      internalID: -7950669374552711222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_18
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74349afcf5764d899fffbac507a37ea
+      internalID: 8023351349111020855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91dbf246f5414e6796531733430b075
+      internalID: 4828705618399591250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_20
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce05c69f228f491a80b08c85a92cdbd
+      internalID: -6026143099730471204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f742f87feac1d40b88fa62dc48df03f3
+      internalID: 1825002179496429723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_22
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9857113067d4e53879937b7890cf3c
+      internalID: 9206084060805443513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_23
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f538fe49a13b4976b959ef1d43933d5
+      internalID: 7502063642466581739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_24
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6929fd0a2ac6a49b1848aee192b2e0ad
+      internalID: -7121470364821244735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_25
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db776493461364ebcb57e58d6eab27c5
+      internalID: 4798508160781170542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be75878b8c53845338afe021cddd0509
+      internalID: -4588374621161620905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_27
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706e53a3b21bd44738f64acf9f4d1b02
+      internalID: 2374954443961181412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c987a97a231264c9ca9fb7c0f7204dae
+      internalID: 1622194758332254950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_29
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65041f5fb85f4486b785c1aad094e56
+      internalID: 3169935738694129249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_30
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 63
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fc5b7aaa4d74086ab470ecc64852b8
+      internalID: 6270854490999501585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24118fb9ac66041a59189f03dad3ec19
+      internalID: 570035218471937661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656bc8b8a3c5a4f7b9b6e87e9c206ae8
+      internalID: 8495286381504859259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_33
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59b29270d57c4ebd9e3f5e50445dc5b
+      internalID: -3377768321145504116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_34
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6499ad17a3da145e196baf5f28e4d034
+      internalID: 7749116083481375504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474c0516d01dd48899774665fa5c3cfe
+      internalID: -2983140065141284587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_36
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03cae25fbc3c4411a044ea19b4ce8bb
+      internalID: -4764898980279580798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_37
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9741872432564a8d8e19c51bc9b3934
+      internalID: 8109065191256107953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_38
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18de997c5c7084618bc2e41e8ed6d374
+      internalID: -3103246854203606898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_39
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 54
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9a6b27e1cb547aa8345980029af3d0
+      internalID: -962343806208188590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_40
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9669442d7e3241dd9b764b1907e138f
+      internalID: -5378326496847192250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_41
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3598840bc3b4e0d8fc0b8c0997b303
+      internalID: 2457487567518653046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1515a9eadc85047f5aaf6df29fadadac
+      internalID: -5493846948521811756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_43
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0efb0c31e3643c3a3772e37956c5ec
+      internalID: -5709331221690271409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_44
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 54
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bffa4a6ceae14871902e4cde7ef66bc
+      internalID: -2197126477189988244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_45
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fbc8cb0ad3b4c23ba7c1cbe9f15cf7
+      internalID: -7074696404195235436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_46
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcffce3a4e634ea1b3f5464c82fe765
+      internalID: 3150865133759790465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_47
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 45
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9173ea09ec7044c3f8bd3af31bc810b1
+      internalID: 8022277675557614281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 45
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec13b1aed615a4699b89bc7e5233ad0b
+      internalID: -5077757193716823506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_49
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 45
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af687b73ec463445ba5840aa28995b4d
+      internalID: -2187433747977546898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_50
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 45
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674867da8f3b14239b82cf50f36b74f0
+      internalID: 5577050693155132380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_51
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 45
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfd322915a3a45aea0cc1ac6513ca40
+      internalID: 3029482550844806025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_52
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 45
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097149df10bd14c6587bb4d1c02a646d
+      internalID: -2061988568625433666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_53
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 36
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a05df14165154a4ca35172d936066b2
+      internalID: -1329067629419264640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_54
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36752ffe2a684b9cac666ab9dac6720
+      internalID: 6607274486339103458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_55
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93520c517e7e94161968e530044b91d0
+      internalID: 614443686589350076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_56
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc86fcccc62b435d81d69b03849c84f
+      internalID: -3221207177511632740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_57
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f356c6d6bf5d4986aaf371a76b8c632
+      internalID: 7040602002947531191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c36742ea3752498c800d6ed82eef874
+      internalID: 2824785619621092703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_59
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6b4ea0d22b242dfa3ba53147c06112
+      internalID: -6756977721519715557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_60
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c4583da61f04eca980ec5f334ee46e
+      internalID: -7099513167492869367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_61
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9af0f523c3f4928bfa4bf08d037e79
+      internalID: 288393636092196090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_62
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 36
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe91e859cbe814ec0bed3fc5ab5b0219
+      internalID: 2272105098701509627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_63
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006c729bee8404d88a0e862d97aef2f3
+      internalID: -5593772794785303508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_64
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8766a3daae5954f1a81d60d4f6e74f03
+      internalID: -6965378686629008539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_65
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 36
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e809c614edd674e98b20a02aac28d65a
+      internalID: 2156175552860317397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_66
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c113aa4ac0f4bc5b4ebcf8e49ae019
+      internalID: -1326624375169589880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_67
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d25084f19e164e21a5b8d0a276d4cd4
+      internalID: -5118028226867395161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_68
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca50cf9ccb864e88926719bfd33e096
+      internalID: -7591091676241704709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_69
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aadc0bf483764bf7b62abd47afab36b
+      internalID: 6218398158799734962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_70
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91989c5700acb4638a4ded3a551739b6
+      internalID: -8324039719099123083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_71
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dab81be98324ab8aae12f43615fce3
+      internalID: -2124888794205285213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_72
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48351a5e86f55446cbf64c99a1f081f6
+      internalID: 4533202406232987224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_73
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 27
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382914e80829843c99c99a296053ee96
+      internalID: -3863620502571829773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_74
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b4a92ba78cc46a9b2ca9cee8919ad9
+      internalID: 597828258166597306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_75
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f69955fe3014db19b0876a1fcf512d
+      internalID: -4258795882474506341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_76
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce7f3164be6c47278c51f54c80448e0
+      internalID: -8562144327975669948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_77
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71a03f7e0800421f8019b6fee594a16
+      internalID: 3558187690968469420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_78
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa90a1f5cbdd4718994ccdfd50939ea
+      internalID: -4516962210507475335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_79
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 27
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888e9e86391aa47548c2502038e31c41
+      internalID: -7629025610335676679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_80
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9f68025d1604b0e9b31a78ded1a9da
+      internalID: -8476792832457112666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_81
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 18
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23017776478846df87574d70434bbc4
+      internalID: -7340649145455686414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_82
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 18
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92eaaaae061494c8f8558e535e8d0a31
+      internalID: -4890854877255708196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_83
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 18
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba30f7270ad54a34b137c4c1120e9a0
+      internalID: 9100776293769830172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_84
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 18
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1589fd7e1df084267b085eb34dadeff5
+      internalID: -1677978462135258612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rika_85
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 18
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8be1ef546c4545c984932e041274159
+      internalID: -4496827293045604519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9225e2a4d3ed74b20a57c951d019524e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

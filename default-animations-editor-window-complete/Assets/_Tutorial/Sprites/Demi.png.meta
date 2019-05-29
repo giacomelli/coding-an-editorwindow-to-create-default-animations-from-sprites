@@ -1,0 +1,2176 @@
+fileFormatVersion: 2
+guid: f8b720b6a00db443dbf2745e3e624c94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2294657993459321839
+    second: Demi_0
+  - first:
+      213: -4089600276339083328
+    second: Demi_1
+  - first:
+      213: 3384978150006605400
+    second: Demi_2
+  - first:
+      213: 7100814207164947044
+    second: Demi_3
+  - first:
+      213: 4506025986669133351
+    second: Demi_4
+  - first:
+      213: 755084263448451387
+    second: Demi_5
+  - first:
+      213: 1505652945858173206
+    second: Demi_6
+  - first:
+      213: 9193972887001886636
+    second: Demi_7
+  - first:
+      213: -7047370155667098281
+    second: Demi_8
+  - first:
+      213: 2038771738596257549
+    second: Demi_9
+  - first:
+      213: -8588166699006517276
+    second: Demi_10
+  - first:
+      213: 520195703349082917
+    second: Demi_11
+  - first:
+      213: 4130330546381682681
+    second: Demi_12
+  - first:
+      213: 4321305910356349024
+    second: Demi_13
+  - first:
+      213: 3699079217536074565
+    second: Demi_14
+  - first:
+      213: -4518598918872196445
+    second: Demi_15
+  - first:
+      213: 2542490244741843035
+    second: Demi_16
+  - first:
+      213: -2681744738681190361
+    second: Demi_17
+  - first:
+      213: 7101668835207559803
+    second: Demi_18
+  - first:
+      213: 1831560801822080818
+    second: Demi_19
+  - first:
+      213: 3175927047614621526
+    second: Demi_20
+  - first:
+      213: 3579964220817643648
+    second: Demi_21
+  - first:
+      213: -3345814730090070409
+    second: Demi_22
+  - first:
+      213: -600859930686996753
+    second: Demi_23
+  - first:
+      213: 2728765527372302025
+    second: Demi_24
+  - first:
+      213: 4316108634841189441
+    second: Demi_25
+  - first:
+      213: -6738083765615286008
+    second: Demi_26
+  - first:
+      213: 6580467461676995796
+    second: Demi_27
+  - first:
+      213: 196446411792385261
+    second: Demi_28
+  - first:
+      213: 7296749370621163502
+    second: Demi_29
+  - first:
+      213: 6268832278246966364
+    second: Demi_30
+  - first:
+      213: -5057360288381745827
+    second: Demi_31
+  - first:
+      213: -8377678871482360914
+    second: Demi_32
+  - first:
+      213: -4638492028209562945
+    second: Demi_33
+  - first:
+      213: -5288612841983704933
+    second: Demi_34
+  - first:
+      213: -6779618021122969951
+    second: Demi_35
+  - first:
+      213: 4014124939689995161
+    second: Demi_36
+  - first:
+      213: 1481800722686061137
+    second: Demi_37
+  - first:
+      213: 6224575932886716480
+    second: Demi_38
+  - first:
+      213: -2610313381345401767
+    second: Demi_39
+  - first:
+      213: -2762748771761413445
+    second: Demi_40
+  - first:
+      213: -5930376733706065237
+    second: Demi_41
+  - first:
+      213: 5982088524636630343
+    second: Demi_42
+  - first:
+      213: 5784371673173979755
+    second: Demi_43
+  - first:
+      213: 3260208582264862688
+    second: Demi_44
+  - first:
+      213: -283049631815571447
+    second: Demi_45
+  - first:
+      213: 2691525403531784541
+    second: Demi_46
+  - first:
+      213: -5255027672193494347
+    second: Demi_47
+  - first:
+      213: -3071521423881750303
+    second: Demi_48
+  - first:
+      213: 1142122439082042772
+    second: Demi_49
+  - first:
+      213: 4105038048635218194
+    second: Demi_50
+  - first:
+      213: -7306988280119814379
+    second: Demi_51
+  - first:
+      213: -4058410157562535027
+    second: Demi_52
+  - first:
+      213: -1627656730446720443
+    second: Demi_53
+  - first:
+      213: -7888122274171967425
+    second: Demi_54
+  - first:
+      213: 6583089773709134208
+    second: Demi_55
+  - first:
+      213: 8396525674990489369
+    second: Demi_56
+  - first:
+      213: 4182463410957447365
+    second: Demi_57
+  - first:
+      213: -1599363131419041574
+    second: Demi_58
+  - first:
+      213: 21417630121711576
+    second: Demi_59
+  - first:
+      213: 3050651670423240746
+    second: Demi_60
+  - first:
+      213: 2723283824182344207
+    second: Demi_61
+  - first:
+      213: -9078038312808196416
+    second: Demi_62
+  - first:
+      213: -5381917446025972659
+    second: Demi_63
+  - first:
+      213: -6961921957846700137
+    second: Demi_64
+  - first:
+      213: 7408165258850460093
+    second: Demi_65
+  - first:
+      213: -5400649632783323636
+    second: Demi_66
+  - first:
+      213: -6802760189587753360
+    second: Demi_67
+  - first:
+      213: 6120059134089153083
+    second: Demi_68
+  - first:
+      213: 5839638954877528108
+    second: Demi_69
+  - first:
+      213: 1866615661980349566
+    second: Demi_70
+  - first:
+      213: 5562642283215545153
+    second: Demi_71
+  - first:
+      213: 3236715994208227425
+    second: Demi_72
+  - first:
+      213: -2083058336247137916
+    second: Demi_73
+  - first:
+      213: -5901828237417801460
+    second: Demi_74
+  - first:
+      213: 7289804988237325032
+    second: Demi_75
+  - first:
+      213: 2430503648331526312
+    second: Demi_76
+  - first:
+      213: -5844297124353525061
+    second: Demi_77
+  - first:
+      213: 2380429894713363664
+    second: Demi_78
+  - first:
+      213: -8636956727869663812
+    second: Demi_79
+  - first:
+      213: 7358407585624963396
+    second: Demi_80
+  - first:
+      213: 2150218154526297685
+    second: Demi_81
+  - first:
+      213: -196080411863106568
+    second: Demi_82
+  - first:
+      213: 6675254971996375119
+    second: Demi_83
+  - first:
+      213: 1009804497279705535
+    second: Demi_84
+  - first:
+      213: -6489822326529401133
+    second: Demi_85
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Demi_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 82
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ded05d01920642ce876c70b53843616
+      internalID: 2294657993459321839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 107
+        width: 13
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef22177211987460e9e85f5d775b8703
+      internalID: -4089600276339083328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 108
+        width: 13
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446e60ed877ca4e2598a70267e854808
+      internalID: 3384978150006605400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 107
+        width: 13
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240fe477e99644d0184cafc17e261162
+      internalID: 7100814207164947044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 107
+        width: 13
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42b0899d987b4b9389accba9a34136f
+      internalID: 4506025986669133351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 108
+        width: 13
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2681119360a444fd69ea4c1f85c71804
+      internalID: 755084263448451387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 107
+        width: 13
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd9aba7eb5974d178696b87e8660cad
+      internalID: 1505652945858173206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_7
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 107
+        width: 12
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f174bf1400c2844a7b5e3ac607a89ba2
+      internalID: 9193972887001886636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 107
+        width: 10
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44909329b6914b3e89c093832023b63
+      internalID: -7047370155667098281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 107
+        width: 12
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db61a2cc4e16740b8a3e0cc0e6a29cba
+      internalID: 2038771738596257549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 85
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd81c18e8d8be42fa94522704a513bb9
+      internalID: -8588166699006517276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234057cae52a44274b459acb6bc6b982
+      internalID: 520195703349082917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_12
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28578d53c4b94a939730983b32e6272
+      internalID: 4130330546381682681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 72
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde4174b662f94fc693e319d3584ee2e
+      internalID: 4321305910356349024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af56df3af81d4840a34f857376262f7
+      internalID: 3699079217536074565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf553aa2c79fd4c418aa898798251306
+      internalID: -4518598918872196445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff1298596ecc47f091597cb0ccac073
+      internalID: 2542490244741843035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbc54b8ba3e64dc0a867e6318c02495
+      internalID: -2681744738681190361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_18
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 74
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d09511d9770a41c9978d942d94b80c7
+      internalID: 7101668835207559803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_19
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2cdb3dc554d4568b1e865436d329d4
+      internalID: 1831560801822080818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c93a291cf69d45c3a11080ff378f33e
+      internalID: 3175927047614621526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_21
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dc6a3ea51ad426688c88a8cba6c107
+      internalID: 3579964220817643648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68072e919fd6942c8b5542b9e49f7c10
+      internalID: -3345814730090070409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_23
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0096547d8fe4119b9033b0e0dd705f
+      internalID: -600859930686996753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_24
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88599103c55614db7ad9c8c90217c7c7
+      internalID: 2728765527372302025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_25
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572c52c9c47dc4b7ebb139b6a5049b95
+      internalID: 4316108634841189441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e94fd6888c5f4cd7830e33dc910c4f6
+      internalID: -6738083765615286008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f4648116bc04391bea1195f05f8884
+      internalID: 6580467461676995796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_28
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed519f5fd873446b2ac289ea51ab9fd7
+      internalID: 196446411792385261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9fe6bdfcbc04fd293ef299a4a62201
+      internalID: 7296749370621163502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_30
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f8d3ce25dcd42a58d6e98adb8ad519
+      internalID: 6268832278246966364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_31
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 63
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102900879884940168fe54ab3ccd9f39
+      internalID: -5057360288381745827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6211eb61f5dd04651a5deab47a2606c7
+      internalID: -8377678871482360914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_33
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae92394771244f11b5349865027ea4e
+      internalID: -4638492028209562945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_34
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b44afc0195b4028af11a14ef7c0e77
+      internalID: -5288612841983704933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb82f4c8a86aa4cb4a84f29d8221e2db
+      internalID: -6779618021122969951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_36
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f66897f7efcc42c393a4388bd7c376c
+      internalID: 4014124939689995161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_37
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6101d9193cb34ea5b047579c986b096
+      internalID: 1481800722686061137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_38
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a721fddd4809045539afa11986d7ea2c
+      internalID: 6224575932886716480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_39
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 54
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7809255228df846bcb287ba1ec100af4
+      internalID: -2610313381345401767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_40
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c854ad9ffc6594d35994010dd24655a5
+      internalID: -2762748771761413445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_41
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4abd0657ec574ddb99a7e7cba56e79e
+      internalID: -5930376733706065237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56352aa428582402d80eecf4962ce51b
+      internalID: 5982088524636630343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_43
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e8792c5dcd14090a379e71af0d0c5f
+      internalID: 5784371673173979755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_44
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 54
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb2f0dd2e3bd4d248d5ed753e9c6ce0
+      internalID: 3260208582264862688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_45
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b6c116cfcd443cd81d274e7477407f
+      internalID: -283049631815571447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_46
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7204d3d2233634ecd937779f72be3c03
+      internalID: 2691525403531784541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_47
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 45
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12c9e24f4dcc473a942af511a1445c0
+      internalID: -5255027672193494347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 45
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7566b43a5a6814d5aa989f28d29e483a
+      internalID: -3071521423881750303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_49
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 45
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9073b558f8940428abe310a0993bd456
+      internalID: 1142122439082042772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_50
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 45
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989e77fb891ed4790bc603cc7bfca51b
+      internalID: 4105038048635218194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_51
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 45
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada3aee541a994189a1ad17dc51399ce
+      internalID: -7306988280119814379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_52
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 45
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36b1712a5a744f9a9a77e1dbdd94620
+      internalID: -4058410157562535027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_53
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 36
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e52118497264d11988e3b6de9999ab
+      internalID: -1627656730446720443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_54
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc42dd5b3fb2c4fd09c2f9d245118f18
+      internalID: -7888122274171967425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_55
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0622ba6c21b2a4034a579b3d99d68767
+      internalID: 6583089773709134208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_56
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98c1929847214cc4b9534e6e3df3ae0
+      internalID: 8396525674990489369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_57
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca77a18d2ab5440aaf939f2b2e1d586
+      internalID: 4182463410957447365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77158d81630040089f9c07926fbf0d5
+      internalID: -1599363131419041574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_59
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5308ffc995f941d4b44e1b486f06674
+      internalID: 21417630121711576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_60
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260eaa48c366741a89ed71b2865d7fcf
+      internalID: 3050651670423240746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_61
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a29609e58c94add8e53d1b704bc14b
+      internalID: 2723283824182344207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_62
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 36
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eff27fb6760c45b6bf7f234df563a5a
+      internalID: -9078038312808196416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_63
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317393e9ace614c0fa4c72d0cf88587b
+      internalID: -5381917446025972659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_64
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c8038b9464d48319ee6203cce081ef
+      internalID: -6961921957846700137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_65
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 36
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3375b4f35ac04433b3b0452b497242d
+      internalID: 7408165258850460093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_66
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bc52ebb60d1467fa19d2d54af4db91
+      internalID: -5400649632783323636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_67
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b8d796d95e44a45bca7d9b25fca18e
+      internalID: -6802760189587753360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_68
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1113e5b366ac14dbc913a6238bb0c701
+      internalID: 6120059134089153083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_69
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b538f26a74fa34771b2d442fc545f534
+      internalID: 5839638954877528108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_70
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21189fca3ea8745dfa7032b61ab60642
+      internalID: 1866615661980349566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_71
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451a832e6c4874f4d9986b646b30ff3b
+      internalID: 5562642283215545153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_72
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c498a3bc451114aec93669ccbebbb8c4
+      internalID: 3236715994208227425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_73
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 27
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45caeaffa96d94e9b81b786a092d88f7
+      internalID: -2083058336247137916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_74
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee9faef78bad4aa39285d2a50b44566
+      internalID: -5901828237417801460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_75
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d879cf95f9594855a3410af2f7595bd
+      internalID: 7289804988237325032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_76
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6516db8c2ac1e4d549eab0cba6114cb2
+      internalID: 2430503648331526312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_77
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd63e948af1134a0497d6b0d61b85948
+      internalID: -5844297124353525061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_78
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51d3e78d6b5343fc90fefddca92d253
+      internalID: 2380429894713363664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_79
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 27
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389c97f2762224c8d831646c41234de3
+      internalID: -8636956727869663812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_80
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d51a46d267946e28bf7335b2ab7770
+      internalID: 7358407585624963396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_81
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 18
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c8cf97f021e442eab118daf8452692
+      internalID: 2150218154526297685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_82
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 18
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8b7cc8eb5f141aa9b7262bae35b579
+      internalID: -196080411863106568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_83
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 18
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957092a8649b0421e825067937965255
+      internalID: 6675254971996375119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_84
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 18
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd9ee5a2e5eb4b9d9c063c9df4857a9
+      internalID: 1009804497279705535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demi_85
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 18
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7de473c4e71a4850af30019a418fe49
+      internalID: -6489822326529401133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: edc7ec29117424775b886f4b7c524d33
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

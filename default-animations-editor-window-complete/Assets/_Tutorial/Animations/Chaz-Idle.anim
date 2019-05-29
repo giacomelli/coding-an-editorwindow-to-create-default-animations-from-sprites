@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Alys-Idle
+  m_Name: Chaz-Idle
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,7 +20,7 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 7971986552285990299, guid: 095992a497593458780d36d490e53c15,
+      value: {fileID: 4712351338351020917, guid: 658491ce0e802450ca684467509b4c2c,
         type: 3}
     attribute: m_Sprite
     path: 
@@ -41,7 +41,7 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 7971986552285990299, guid: 095992a497593458780d36d490e53c15, type: 3}
+    - {fileID: 4712351338351020917, guid: 658491ce0e802450ca684467509b4c2c, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}

@@ -1,0 +1,2200 @@
+fileFormatVersion: 2
+guid: 7439ef9d7873b4718b610fdd671e0c3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8848166620974828941
+    second: Gryz_0
+  - first:
+      213: 253514181669087839
+    second: Gryz_1
+  - first:
+      213: 4774101644957374720
+    second: Gryz_2
+  - first:
+      213: -1394380183379092157
+    second: Gryz_3
+  - first:
+      213: -6011127817154542015
+    second: Gryz_4
+  - first:
+      213: 1566881225093170470
+    second: Gryz_5
+  - first:
+      213: -3091405470554773082
+    second: Gryz_6
+  - first:
+      213: 7956636150787020576
+    second: Gryz_7
+  - first:
+      213: 9083266316192289788
+    second: Gryz_8
+  - first:
+      213: 7131183526159059136
+    second: Gryz_9
+  - first:
+      213: -7173415039388866351
+    second: Gryz_10
+  - first:
+      213: 4923687838083650508
+    second: Gryz_11
+  - first:
+      213: -2698066578434699138
+    second: Gryz_12
+  - first:
+      213: 8438748108809153813
+    second: Gryz_13
+  - first:
+      213: -897468817248690665
+    second: Gryz_14
+  - first:
+      213: -7649520038405058037
+    second: Gryz_15
+  - first:
+      213: 6149302398640379856
+    second: Gryz_16
+  - first:
+      213: 3395694842849569942
+    second: Gryz_17
+  - first:
+      213: -8522435636240277660
+    second: Gryz_18
+  - first:
+      213: -7913246234015220070
+    second: Gryz_19
+  - first:
+      213: -944029359373093963
+    second: Gryz_20
+  - first:
+      213: 2395118462840854299
+    second: Gryz_21
+  - first:
+      213: 3424681584812544076
+    second: Gryz_22
+  - first:
+      213: -880721392742642658
+    second: Gryz_23
+  - first:
+      213: -4045615899533938646
+    second: Gryz_24
+  - first:
+      213: 2720000462848113987
+    second: Gryz_25
+  - first:
+      213: 3362993960322380233
+    second: Gryz_26
+  - first:
+      213: -3210122248822434005
+    second: Gryz_27
+  - first:
+      213: 976264699774355998
+    second: Gryz_28
+  - first:
+      213: 2730911607252573046
+    second: Gryz_29
+  - first:
+      213: 969469003854094684
+    second: Gryz_30
+  - first:
+      213: 1015045344275687014
+    second: Gryz_31
+  - first:
+      213: 2103415451395663492
+    second: Gryz_32
+  - first:
+      213: 7144143353917129491
+    second: Gryz_33
+  - first:
+      213: -3756687812148793828
+    second: Gryz_34
+  - first:
+      213: 3362141126283317650
+    second: Gryz_35
+  - first:
+      213: 2728080243576115756
+    second: Gryz_36
+  - first:
+      213: 3643519487218304527
+    second: Gryz_37
+  - first:
+      213: -6077051542799889724
+    second: Gryz_38
+  - first:
+      213: 5839141409542584172
+    second: Gryz_39
+  - first:
+      213: -7944202379003673910
+    second: Gryz_40
+  - first:
+      213: 8840187847585950397
+    second: Gryz_41
+  - first:
+      213: -3802018877443079040
+    second: Gryz_42
+  - first:
+      213: -7440328120423209596
+    second: Gryz_43
+  - first:
+      213: -2651241861796805406
+    second: Gryz_44
+  - first:
+      213: -5723192504091033692
+    second: Gryz_45
+  - first:
+      213: -2472369727866240190
+    second: Gryz_46
+  - first:
+      213: 6532442787916302919
+    second: Gryz_47
+  - first:
+      213: 6765205512674041284
+    second: Gryz_48
+  - first:
+      213: -7213440128515439244
+    second: Gryz_49
+  - first:
+      213: 7437606313017788178
+    second: Gryz_50
+  - first:
+      213: 390374591540825670
+    second: Gryz_51
+  - first:
+      213: 9171660331595053166
+    second: Gryz_52
+  - first:
+      213: 234577438485185229
+    second: Gryz_53
+  - first:
+      213: 2743719571078614719
+    second: Gryz_54
+  - first:
+      213: 329459546300561330
+    second: Gryz_55
+  - first:
+      213: -2520370942704831792
+    second: Gryz_56
+  - first:
+      213: 3362988827119881958
+    second: Gryz_57
+  - first:
+      213: 2953497416194112011
+    second: Gryz_58
+  - first:
+      213: 7940825422674702467
+    second: Gryz_59
+  - first:
+      213: -196069191605200714
+    second: Gryz_60
+  - first:
+      213: -3569136387280319746
+    second: Gryz_61
+  - first:
+      213: 370661477682633777
+    second: Gryz_62
+  - first:
+      213: 2835782554130204770
+    second: Gryz_63
+  - first:
+      213: -6653955948804403851
+    second: Gryz_64
+  - first:
+      213: -2198882178981553638
+    second: Gryz_65
+  - first:
+      213: -604259931703540163
+    second: Gryz_66
+  - first:
+      213: 8675282609698108277
+    second: Gryz_67
+  - first:
+      213: 333952695884200183
+    second: Gryz_68
+  - first:
+      213: -8209860478792935525
+    second: Gryz_69
+  - first:
+      213: -7454130657740876026
+    second: Gryz_70
+  - first:
+      213: 5447238814917972494
+    second: Gryz_71
+  - first:
+      213: 8618022167760103182
+    second: Gryz_72
+  - first:
+      213: 7193588762214077964
+    second: Gryz_73
+  - first:
+      213: -6765965715119976603
+    second: Gryz_74
+  - first:
+      213: -91138845483424971
+    second: Gryz_75
+  - first:
+      213: 6202660170485087559
+    second: Gryz_76
+  - first:
+      213: -8994879863372511582
+    second: Gryz_77
+  - first:
+      213: 2113121622915762980
+    second: Gryz_78
+  - first:
+      213: 5864850886952174199
+    second: Gryz_79
+  - first:
+      213: 6372386212873486510
+    second: Gryz_80
+  - first:
+      213: -7073002473237178442
+    second: Gryz_81
+  - first:
+      213: 6109135067174938966
+    second: Gryz_82
+  - first:
+      213: 2523722503847132616
+    second: Gryz_83
+  - first:
+      213: 9115781887254095759
+    second: Gryz_84
+  - first:
+      213: 4894925300404925345
+    second: Gryz_85
+  - first:
+      213: -8318327520303346624
+    second: Gryz_86
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gryz_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 82
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12ec4292249e43b5954522544d30995
+      internalID: -8848166620974828941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 88
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d52c8c2119543ab994624b09755635
+      internalID: 253514181669087839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 89
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c7faa680ab24566af61ca67ac8cc07
+      internalID: 4774101644957374720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 88
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399ab42e555b74e8fa5f601c102e9be9
+      internalID: -1394380183379092157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 88
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67b9e3a1bf69410c9d3c42118dcfd3c
+      internalID: -6011127817154542015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 89
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcd2bdc57b7d4a40bcb1507e1dafbca
+      internalID: 1566881225093170470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 88
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73624209c7eee4eb79f65f28f44afdbd
+      internalID: -3091405470554773082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 88
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519b670ca7c734111816e48c158a5b9b
+      internalID: 7956636150787020576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 88
+        width: 13
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0924a592f7c4ad6a3c6b81bc94bb00
+      internalID: 9083266316192289788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_9
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 88
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d0fd7fa6bfc4f188f46eb034ddea2a
+      internalID: 7131183526159059136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 80
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65131d7c5e9c44649ad025c789f3d95d
+      internalID: -7173415039388866351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998be47d501c840858834e61e4c3e553
+      internalID: 4923687838083650508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9fd855e5867431aab1e27bd4b23f4d
+      internalID: -2698066578434699138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_13
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec268f1970d9343f4acf89ee475c88b9
+      internalID: 8438748108809153813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f64e2990ea344ceb93cebefaf19bcf4
+      internalID: -897468817248690665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f13e872da2304559834f68929338bb9
+      internalID: -7649520038405058037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d343533e6d1f84daabe60dc6dae7d47d
+      internalID: 6149302398640379856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b153e2bf25a44b2bd3db6a7a50ec16
+      internalID: 3395694842849569942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_18
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 72
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021de227cfe6643bd94e6349e5e9d3b7
+      internalID: -8522435636240277660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_19
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89adf858b7648405d8396692e00e5dfd
+      internalID: -7913246234015220070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f91f306d42e74637a6bdbb80f1a3c4f
+      internalID: -944029359373093963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_21
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a5ca7b9378c4220b93196a8d920cb7
+      internalID: 2395118462840854299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1da5d68d4f4046d99303f36af5c6f9f
+      internalID: 3424681584812544076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_23
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7ae35ad4f754427a7b8cacb1c44c2b
+      internalID: -880721392742642658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_24
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431f97a0c8b624d85a3237540c69eb5f
+      internalID: -4045615899533938646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_25
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2374ee3e4f6c249dd99f03bb689e237e
+      internalID: 2720000462848113987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1847ba86648454460a4f9f40aad5ffb7
+      internalID: 3362993960322380233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8629b7160adc413ba0e4f0dc9c4ea73
+      internalID: -3210122248822434005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_28
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8243ea0d20684eb5abdb2ff3dd5a0ed
+      internalID: 976264699774355998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d332828489040d8a78af15ab5dfc20
+      internalID: 2730911607252573046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_30
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 63
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55784c91ac2b6443a8528d6263c6e625
+      internalID: 969469003854094684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_31
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 63
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc24ec8f286124b25a25032c7333f43a
+      internalID: 1015045344275687014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_32
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e9b1fbe9588469398a0ea41911c301
+      internalID: 2103415451395663492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_33
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc20d1e73aac4d8c9a2f5bb8e28c294
+      internalID: 7144143353917129491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_34
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1119decf6949943478154e0f9a330664
+      internalID: -3756687812148793828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_35
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e244e471460a4babac8fa537b1e29c8
+      internalID: 3362141126283317650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_36
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf489eca444f4fd7965cc20f2e284e3
+      internalID: 2728080243576115756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_37
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdf3637ce9e240b281c62d12428b67e
+      internalID: 3643519487218304527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_38
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def82908aebf942fb90fd3d13fd38c74
+      internalID: -6077051542799889724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_39
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9415c892114fa4bfa8f4885a411b207d
+      internalID: 5839141409542584172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_40
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 54
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0e10ee4dd694fdd9190047f263c2ac
+      internalID: -7944202379003673910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_41
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12f639fb9bda495385d9783d8bf2a42
+      internalID: 8840187847585950397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_42
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e140e37c6a540678a179e89e1c587e
+      internalID: -3802018877443079040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_43
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e477d1e18d6494e7182ed987b2438820
+      internalID: -7440328120423209596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_44
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85805770ae504d14b8ee384a9dfcfc3
+      internalID: -2651241861796805406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_45
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 54
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d90659d7152c4d5a9d22a789ea9d173
+      internalID: -5723192504091033692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_46
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5189ce135e04c49963dd5bc62c84f2
+      internalID: -2472369727866240190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_47
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 54
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf890bc34addc485da04df330fcdb7bc
+      internalID: 6532442787916302919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_48
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 45
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eeb87e73c62d440a9e119d0bbc5ab3b
+      internalID: 6765205512674041284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 45
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3593b91f289b64effb3fa22008fec5e7
+      internalID: -7213440128515439244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_50
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 45
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0276f462ce2d8417e82940dd54793abf
+      internalID: 7437606313017788178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_51
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 45
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62eff97c9d16541d591f18dc6c97fa25
+      internalID: 390374591540825670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_52
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 45
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f37ecacb44e467595406ca32e67270
+      internalID: 9171660331595053166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_53
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 45
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999bdf798cd824a3c9d848759471d2ab
+      internalID: 234577438485185229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_54
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 36
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71f59133a05f47ce934a654efb6e6be
+      internalID: 2743719571078614719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_55
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49128183068e43378ad3aeadf0a7774
+      internalID: 329459546300561330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_56
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182961d7dc964449da71d9b3ecadbd52
+      internalID: -2520370942704831792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_57
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb93729c867a4e10b0c3fc895c0d67d
+      internalID: 3362988827119881958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_58
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55039c1e5c90048dea83af5678f62dc7
+      internalID: 2953497416194112011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8218d4e6638246c99c81aad9cca199a
+      internalID: 7940825422674702467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_60
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14501050467b49eb827b28d412555a7
+      internalID: -196069191605200714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_61
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47c51c2ff5bd4f82a8b609067896e69
+      internalID: -3569136387280319746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_62
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab80824e63274119aea279a39673846
+      internalID: 370661477682633777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_63
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 36
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206df3c5afeec4ee793e9fb5588fcb02
+      internalID: 2835782554130204770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_64
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad70ce7c9fb61475889c2dde97ff38e9
+      internalID: -6653955948804403851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_65
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c346e33d4f9b747589b63a289ecff846
+      internalID: -2198882178981553638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_66
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 36
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36260fe910ff8452d9bdd4b3630e1b50
+      internalID: -604259931703540163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_67
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 36
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef70a30ce25da461ba61e38ad62625cf
+      internalID: 8675282609698108277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_68
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e90d7c8377054985a1f89cf529177a5
+      internalID: 333952695884200183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_69
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa1e604f8b044fc9b42c5d249384ad3
+      internalID: -8209860478792935525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_70
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c181033e8fd974b74ae008ac550c97a5
+      internalID: -7454130657740876026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_71
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaf1840edb95432fa05c80bf39a252d
+      internalID: 5447238814917972494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_72
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306eb60fbc8cf4557adebebcb39ea420
+      internalID: 8618022167760103182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_73
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ad171f60a7847d3ac6cd4da27b4776
+      internalID: 7193588762214077964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_74
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 27
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6808bd8b2f63f4355b52ea3ee44b47cc
+      internalID: -6765965715119976603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_75
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd58e1d8329f44cc49b1556fb9d0d467
+      internalID: -91138845483424971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_76
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1acb8c28db64d438fcf5c4df505ca2
+      internalID: 6202660170485087559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_77
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33960320bbf8548099f72866774a6380
+      internalID: -8994879863372511582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_78
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f26996d5b044dbda0afb3066b4bcba
+      internalID: 2113121622915762980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_79
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebac4d3fe33149f18709367ddb1e52b
+      internalID: 5864850886952174199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_80
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 27
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f6a2751bfda4e9a82638e6d4645ae2
+      internalID: 6372386212873486510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_81
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 27
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6616dd64d260e4ca7bd02c49fefa6a1b
+      internalID: -7073002473237178442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_82
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 18
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131a043dca2c84817a733111bc635400
+      internalID: 6109135067174938966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_83
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 18
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d7f030e4b114ab8962e7e54a83adad
+      internalID: 2523722503847132616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_84
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 18
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb553e415278244fbbc8fe49a28e4f49
+      internalID: 9115781887254095759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_85
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 18
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c7ee9ef8697419e802b91487aee3a3
+      internalID: 4894925300404925345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gryz_86
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 18
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2de59a107724db9a5e392d3ddb18f2
+      internalID: -8318327520303346624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 78279c66d1c4e43d7bed647e5218eaed
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
