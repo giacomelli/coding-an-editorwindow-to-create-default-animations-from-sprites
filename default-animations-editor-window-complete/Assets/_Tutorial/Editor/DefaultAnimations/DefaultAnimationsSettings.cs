@@ -56,7 +56,7 @@ public class DefaultAnimationsSettings : ScriptableObject
             {
                 if (_spriteIndexes == null || _spriteIndexes.Length == 0)
                 {
-                    var keyFrames = DefaultAnimationsUtility.GetKeyFrames(ClipToOverride);
+                    var keyFrames = ClipToOverride.GetKeyFrames();
                     var spritesheet = ((Sprite)(keyFrames[0].value)).texture;
                     var sprites = spritesheet.GetSprites().Select((s, index) => new { sprite = s, index }).ToArray();
                     _spriteIndexes = new int[keyFrames.Length];

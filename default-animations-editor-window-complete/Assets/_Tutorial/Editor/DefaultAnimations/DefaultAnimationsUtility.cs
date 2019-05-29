@@ -64,7 +64,7 @@ public static class DefaultAnimationsUtility
 
     private static AnimationClip CreateAnimationClip(DefaultAnimationsSettings.AnimationMapping map, DefaultAnimationsSettings settings, params Sprite[] sprites)
     {
-        var clip = GetAsset<AnimationClip>($"{GetTextureName(sprites)}-{map.Name}");
+        var clip = AssetHelper.GetAsset<AnimationClip>($"{sprites.GetSpritesheetName()}-{map.Name}");
         clip.frameRate = map.ClipToOverride.frameRate;
         clip.wrapMode = map.ClipToOverride.wrapMode;
 
@@ -72,21 +72,12 @@ public static class DefaultAnimationsUtility
         var clipToOverrideSettings = AnimationUtility.GetAnimationClipSettings(map.ClipToOverride);
         clip.EditSettings(s => s.loopTime = clipToOverrideSettings.loopTime);
 
+        // Create the keyframes based on source animation, but with the new sprites.
         var keyFramesToOverride = map.ClipToOverride.GetKeyFrames();
-        var keyFrames = new ObjectReferenceKeyframe[sprites.Length];
-
-        for (int i = 0; i < sprites.Length; i++)
-        {
-            keyFrames[i] = new ObjectReferenceKeyframe
-            {
-                // Copy time from clip to override.
-                time = keyFramesToOverride[i].time,
-                value = sprites[i]
-            };
-        }
-
+        var keyFrames = keyFramesToOverride.CreateWithSprites(sprites);
         clip.SetKeyFrames(keyFrames);
-        SaveAsset(clip);
+
+        clip.SaveAsset();
 
         return clip;
     }
@@ -94,19 +85,14 @@ public static class DefaultAnimationsUtility
     private static AnimatorOverrideController CreateAnimatorOverride(Sprite[] sprites, AnimationClip[] overrideClips)
     {
         var settings = DefaultAnimationsSettings.Instance;
-        var animatorOverride = GetAsset<AnimatorOverrideController>(GetTextureName(sprites));
+        var animatorOverride = AssetHelper.GetAsset<AnimatorOverrideController>(sprites.GetSpritesheetName());
         animatorOverride.runtimeAnimatorController = settings.AnimatorController;
 
-        var overrides = new List<KeyValuePair<AnimationClip, AnimationClip>>();
+        animatorOverride.ApplyOverrides(
+            settings.AnimationsMapping.Select(m => m.ClipToOverride).ToArray(), 
+            overrideClips);
 
-        for (int i = 0; i < overrideClips.Length; i++)
-        {
-            overrides.Add(new KeyValuePair<AnimationClip, AnimationClip>(settings.AnimationsMapping[i].ClipToOverride, overrideClips[i]));
-        }
-
-        animatorOverride.ApplyOverrides(overrides);
-
-        SaveAsset(animatorOverride);
+        animatorOverride.SaveAsset();
 
         return animatorOverride;
     }
@@ -116,52 +102,5 @@ public static class DefaultAnimationsUtility
         var spritesNeed = settings.AnimationsMapping.SelectMany(x => x.SpriteIndexes).Distinct().Count();
 
         return (sprites.Length >= spritesNeed, spritesNeed);
-    }
-
-    private static TAsset GetAsset<TAsset>(string name)
-        where TAsset : Object, new()
-    {
-        var path = GetAssetPath(name, typeof(TAsset));
-        return AssetDatabase.LoadAssetAtPath<TAsset>(path) ?? new TAsset { name = name };
-    }
-
-    private static void SaveAsset(Object asset)
-    {
-        var path = GetAssetPath(asset.name, asset.GetType());
-        var existingAsset = AssetDatabase.LoadAssetAtPath(path, asset.GetType());
-       
-        if (existingAsset == null)
-        {
-            AssetDatabase.CreateAsset(asset, path);
-            Debug.Log($"'{path}' created.");
-        }
-        else
-            Debug.Log($"'{path}' updated.");
-    }
-
-    private static string GetAssetPath(string name, System.Type assetType)
-    {
-        return $"{DefaultAnimationsSettings.Instance.AnimationsFolder}/{name}{GetAssetExtension(assetType)}";
-    }
-
-    private static string GetAssetExtension(System.Type assetType)
-    {
-        if (assetType == typeof(AnimationClip))
-            return ".anim";
-
-        if (assetType == typeof(AnimatorOverrideController))
-            return ".overrideController";
-
-        Debug.LogWarning($"Returning .asset has extension for {assetType}.");
-
-        return ".asset";
-    }
-
-    private static string GetTextureName(Sprite[] sprites)
-    {
-        var spriteName = sprites[0].name;
-        spriteName = spriteName.Substring(0, spriteName.IndexOf("_", System.StringComparison.Ordinal));
-
-        return spriteName;
     }
 }

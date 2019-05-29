@@ -25,7 +25,7 @@ public static class AnimationClipExtensions
         return AnimationUtility.GetObjectReferenceCurve(clip, _spriteCurveBinding);
     }
 
-    private static void SetKeyFrames(this AnimationClip clip, ObjectReferenceKeyframe[] keyFrames)
+    public static void SetKeyFrames(this AnimationClip clip, ObjectReferenceKeyframe[] keyFrames)
     {
         AnimationUtility.SetObjectReferenceCurve(clip, _spriteCurveBinding, keyFrames);
     }
