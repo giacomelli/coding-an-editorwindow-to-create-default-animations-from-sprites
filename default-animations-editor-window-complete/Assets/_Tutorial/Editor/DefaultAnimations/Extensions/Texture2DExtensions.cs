@@ -1,6 +1,7 @@
-﻿using UnityEngine;
-using UnityEditor;
+﻿using System;
 using System.Linq;
+using UnityEditor;
+using UnityEngine;
 
 /// <summary>
 /// Texture2 DE xtensions.
@@ -24,6 +25,8 @@ public static class Texture2DExtensions
         }
 
         var assets = AssetDatabase.LoadAllAssetsAtPath(path);
-        return assets.OfType<Sprite>().ToArray();
+
+        // To keep sprites in the natural order.
+        return assets.OfType<Sprite>().OrderBy(s => int.Parse(s.name.Substring(s.name.IndexOf("_", StringComparison.Ordinal) + 1))).ToArray();
     }
 }
